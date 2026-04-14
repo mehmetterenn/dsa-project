@@ -1,0 +1,2034 @@
+Match_ID,Round_Num,Economy_State,Utility_Damage,Headshot_Kill,Entry_Attempt,Entry_Success,Round_Won,Player_Level
+501,1,Full Buy,33.25425884551133,1,0,-1,1,Professional
+501,2,Full Buy,35.45160109932115,1,0,-1,1,Professional
+501,3,Full Buy,39.09736707424791,1,0,-1,0,Professional
+501,4,Full Buy,12.427703627173944,0,0,-1,1,Professional
+501,5,Full Buy,44.1765761944051,-1,0,-1,1,Professional
+501,6,Eco,10.775540389185544,1,0,-1,1,Professional
+501,7,Force,19.230172463534256,1,0,-1,1,Professional
+501,8,Full Buy,42.74652441813608,0,0,-1,1,Professional
+501,9,Full Buy,29.417076527550655,0,0,-1,1,Professional
+501,10,Force,22.778289783350328,1,0,-1,1,Professional
+501,11,Force,34.85877461244324,0,1,0,0,Professional
+501,12,Full Buy,38.082576223228905,0,0,-1,1,Professional
+501,13,Force,18.19303325836016,0,0,-1,1,Professional
+501,14,Force,29.861876401989978,1,0,-1,0,Professional
+501,15,Force,41.62180209754138,0,0,-1,1,Professional
+501,16,Force,26.506924187259063,1,0,-1,0,Professional
+501,17,Eco,41.93130454985249,1,0,-1,0,Professional
+501,18,Full Buy,28.984591300288063,1,0,-1,0,Professional
+501,19,Full Buy,26.23937123740185,1,0,-1,0,Professional
+502,1,Full Buy,24.76536300139005,0,0,-1,0,Professional
+502,2,Force,20.120507980792304,0,0,-1,0,Professional
+502,3,Eco,43.93811652070039,-1,0,-1,0,Professional
+502,4,Full Buy,33.26891527622838,0,0,-1,0,Professional
+502,5,Force,18.552084459280245,-1,0,-1,1,Professional
+502,6,Full Buy,34.79142901020796,1,0,-1,0,Professional
+502,7,Full Buy,33.5491037164978,0,0,-1,1,Professional
+502,8,Eco,35.14421982539725,1,1,0,0,Professional
+502,9,Full Buy,28.006495934932797,-1,0,-1,0,Professional
+502,10,Force,25.422716314655467,-1,0,-1,1,Professional
+502,11,Full Buy,14.825236639971816,1,0,-1,1,Professional
+502,12,Full Buy,38.76173174397401,1,0,-1,1,Professional
+502,13,Full Buy,31.3663707506066,-1,0,-1,1,Professional
+502,14,Full Buy,35.124710479796164,0,0,-1,0,Professional
+502,15,Eco,37.050806457009955,0,0,-1,0,Professional
+502,16,Full Buy,23.5539057617383,1,0,-1,0,Professional
+502,17,Eco,18.765394057428622,-1,1,0,1,Professional
+502,18,Full Buy,25.43900087275925,-1,0,-1,1,Professional
+503,1,Full Buy,36.6529352498229,-1,0,-1,1,Professional
+503,2,Full Buy,26.282504734223785,0,0,-1,1,Professional
+503,3,Full Buy,17.882784773851924,1,0,-1,0,Professional
+503,4,Full Buy,31.960967676252512,1,0,-1,1,Professional
+503,5,Full Buy,37.18058393191403,0,0,-1,1,Professional
+503,6,Force,31.393753733948316,-1,0,-1,1,Professional
+503,7,Full Buy,32.63394674425702,0,0,-1,0,Professional
+503,8,Full Buy,44.86409927695908,1,0,-1,0,Professional
+503,9,Eco,26.134398130667424,1,0,-1,1,Professional
+503,10,Full Buy,0.0,0,0,-1,1,Professional
+503,11,Full Buy,29.724369982734576,0,1,0,1,Professional
+503,12,Full Buy,27.803988661558336,-1,0,-1,0,Professional
+503,13,Full Buy,32.380003425582565,0,0,-1,1,Professional
+503,14,Full Buy,24.233987420976177,1,0,-1,0,Professional
+503,15,Full Buy,39.49038476822287,1,0,-1,1,Professional
+503,16,Eco,34.90739303996382,1,1,0,0,Professional
+503,17,Full Buy,23.69662208718983,0,0,-1,0,Professional
+503,18,Full Buy,19.49913070569575,-1,0,-1,0,Professional
+503,19,Eco,22.219466534792318,-1,0,-1,1,Professional
+504,1,Full Buy,40.59300212805778,0,1,0,1,Professional
+504,2,Eco,45.84328175928165,-1,0,-1,0,Professional
+504,3,Full Buy,23.69469943871173,1,1,1,1,Professional
+504,4,Full Buy,28.834249634351508,0,0,-1,0,Professional
+504,5,Full Buy,37.37605300071096,1,0,-1,0,Professional
+504,6,Full Buy,37.69153022733173,1,0,-1,1,Professional
+504,7,Full Buy,35.17789137500985,1,0,-1,0,Professional
+504,8,Eco,12.051699806492987,0,1,1,0,Professional
+504,9,Force,30.054811018632886,0,0,-1,1,Professional
+504,10,Force,28.115014398987437,-1,0,-1,0,Professional
+504,11,Full Buy,8.336666308985745,0,0,-1,0,Professional
+504,12,Eco,49.71340147537321,-1,0,-1,0,Professional
+504,13,Full Buy,18.768670024789035,0,0,-1,1,Professional
+504,14,Force,35.904537030488214,0,0,-1,1,Professional
+504,15,Full Buy,36.38295139304182,1,1,1,0,Professional
+504,16,Full Buy,16.61505367045448,0,0,-1,1,Professional
+504,17,Force,27.645008014490177,1,0,-1,0,Professional
+504,18,Full Buy,16.870304886886853,1,0,-1,0,Professional
+504,19,Force,32.05334844812001,-1,0,-1,1,Professional
+504,20,Force,43.93612368257454,1,0,-1,1,Professional
+504,21,Full Buy,20.617438955307918,1,0,-1,0,Professional
+504,22,Full Buy,10.57717135103589,-1,0,-1,1,Professional
+505,1,Force,21.614802997079593,-1,0,-1,1,Professional
+505,2,Full Buy,12.382709995475194,1,0,-1,1,Professional
+505,3,Force,29.495054071773342,0,0,-1,0,Professional
+505,4,Force,39.33996023799316,-1,0,-1,0,Professional
+505,5,Eco,23.549621366902677,-1,0,-1,0,Professional
+505,6,Full Buy,18.763122995412715,-1,1,1,0,Professional
+505,7,Full Buy,35.123329051974544,1,0,-1,1,Professional
+505,8,Full Buy,24.63256294823125,1,0,-1,0,Professional
+505,9,Force,32.466091424415204,0,0,-1,1,Professional
+505,10,Full Buy,37.70788881449002,1,0,-1,1,Professional
+505,11,Eco,27.599332320149095,1,1,1,1,Professional
+505,12,Force,33.57883930662423,1,0,-1,0,Professional
+505,13,Full Buy,22.35618534617162,1,0,-1,1,Professional
+505,14,Full Buy,21.915832780869113,0,0,-1,0,Professional
+505,15,Full Buy,31.074700672841153,0,0,-1,1,Professional
+505,16,Full Buy,15.012089251916027,1,0,-1,1,Professional
+505,17,Full Buy,32.90253040358874,1,1,1,1,Professional
+505,18,Force,36.420165981403144,1,0,-1,1,Professional
+505,19,Full Buy,31.335299376563533,-1,0,-1,0,Professional
+505,20,Force,24.918761139362374,1,0,-1,0,Professional
+505,21,Full Buy,24.75420820498995,1,0,-1,0,Professional
+505,22,Full Buy,16.129399486454247,0,0,-1,0,Professional
+505,23,Full Buy,25.155426013179444,1,0,-1,1,Professional
+506,1,Full Buy,18.889398806837075,1,0,-1,0,Professional
+506,2,Eco,16.243223782881657,1,0,-1,0,Professional
+506,3,Eco,6.952494068252076,1,0,-1,0,Professional
+506,4,Force,39.78364883558944,-1,0,-1,0,Professional
+506,5,Force,16.412697575732484,0,0,-1,0,Professional
+506,6,Force,34.50231366840119,1,0,-1,1,Professional
+506,7,Full Buy,40.97304540406449,-1,0,-1,1,Professional
+506,8,Full Buy,31.172059773283774,-1,0,-1,0,Professional
+506,9,Full Buy,23.057876616308135,-1,0,-1,0,Professional
+506,10,Force,30.346326134583233,1,0,-1,0,Professional
+506,11,Full Buy,25.68631175358637,0,1,1,1,Professional
+506,12,Full Buy,35.066467153224885,-1,0,-1,0,Professional
+506,13,Full Buy,28.371120680783203,0,1,0,0,Professional
+506,14,Full Buy,26.42618747989002,-1,0,-1,0,Professional
+506,15,Full Buy,30.616868497600873,-1,0,-1,1,Professional
+506,16,Full Buy,26.552564326144044,-1,0,-1,0,Professional
+506,17,Full Buy,35.926703820749424,1,0,-1,0,Professional
+506,18,Full Buy,29.95969380914247,-1,0,-1,1,Professional
+506,19,Full Buy,32.69677777337143,1,0,-1,1,Professional
+506,20,Full Buy,23.33974634347368,-1,1,0,1,Professional
+506,21,Force,25.220404028053906,-1,0,-1,0,Professional
+507,1,Force,16.913012028840722,-1,0,-1,0,Professional
+507,2,Full Buy,38.71379833791448,0,0,-1,1,Professional
+507,3,Force,41.304831452199764,1,1,1,0,Professional
+507,4,Full Buy,43.18390106938561,1,0,-1,1,Professional
+507,5,Full Buy,22.30781620992495,1,1,1,1,Professional
+507,6,Force,31.281365285921105,0,0,-1,0,Professional
+507,7,Full Buy,29.662582532239497,-1,0,-1,1,Professional
+507,8,Eco,18.349850105685796,-1,0,-1,1,Professional
+507,9,Full Buy,23.268738049724234,1,1,1,1,Professional
+507,10,Eco,25.15542133954791,-1,0,-1,0,Professional
+507,11,Force,49.826275193261026,1,0,-1,0,Professional
+507,12,Full Buy,39.555891373705194,0,0,-1,1,Professional
+507,13,Force,26.725397257237905,0,0,-1,0,Professional
+507,14,Full Buy,35.15207503661957,0,0,-1,1,Professional
+507,15,Full Buy,23.795766200284337,-1,0,-1,0,Professional
+507,16,Full Buy,33.3081820548609,-1,0,-1,1,Professional
+507,17,Force,30.206128854596855,1,0,-1,0,Professional
+507,18,Force,36.52079756422019,1,1,1,1,Professional
+508,1,Full Buy,32.333486600725614,1,0,-1,1,Professional
+508,2,Full Buy,48.54820819394985,0,0,-1,1,Professional
+508,3,Full Buy,29.23743504139126,-1,0,-1,1,Professional
+508,4,Full Buy,34.44820442763043,0,0,-1,1,Professional
+508,5,Force,21.357996344921837,0,1,1,1,Professional
+508,6,Full Buy,25.18951750738458,0,1,1,1,Professional
+508,7,Full Buy,22.24903728303085,0,0,-1,1,Professional
+508,8,Full Buy,27.82744430136286,1,0,-1,0,Professional
+508,9,Full Buy,26.527090544511655,1,0,-1,1,Professional
+508,10,Force,41.40878944870157,0,0,-1,1,Professional
+508,11,Full Buy,33.46323950187775,0,0,-1,1,Professional
+508,12,Full Buy,45.77474560234538,1,0,-1,1,Professional
+508,13,Full Buy,42.540694117107705,0,1,1,1,Professional
+508,14,Full Buy,16.049627939935924,1,0,-1,1,Professional
+508,15,Full Buy,35.293217947587465,1,0,-1,1,Professional
+508,16,Force,24.382789444648886,1,0,-1,1,Professional
+508,17,Full Buy,36.412499610942916,1,0,-1,1,Professional
+508,18,Force,24.96026651061771,0,0,-1,0,Professional
+509,1,Full Buy,36.27485970054259,0,0,-1,1,Professional
+509,2,Full Buy,22.88461036431555,0,0,-1,0,Professional
+509,3,Full Buy,44.143584662504225,1,0,-1,1,Professional
+509,4,Full Buy,38.39141760853898,1,1,0,1,Professional
+509,5,Full Buy,37.242966940716556,1,0,-1,1,Professional
+509,6,Full Buy,24.81025126580795,1,0,-1,1,Professional
+509,7,Full Buy,32.301767396747394,0,0,-1,1,Professional
+509,8,Full Buy,17.892356927165253,1,0,-1,1,Professional
+509,9,Full Buy,28.837786098492835,-1,1,0,1,Professional
+509,10,Force,15.679365293089717,1,1,1,1,Professional
+509,11,Full Buy,43.53602573102743,0,0,-1,1,Professional
+509,12,Full Buy,41.84047508341973,-1,0,-1,1,Professional
+509,13,Full Buy,24.80568010185751,0,1,1,1,Professional
+509,14,Force,38.15251239965771,0,0,-1,1,Professional
+509,15,Force,37.8565612548136,-1,0,-1,0,Professional
+509,16,Full Buy,14.815913187351123,1,0,-1,1,Professional
+509,17,Full Buy,25.45115198606488,1,1,1,1,Professional
+509,18,Full Buy,35.443014336310206,1,0,-1,0,Professional
+510,1,Full Buy,35.43094307712153,1,1,1,1,Professional
+510,2,Full Buy,21.374381697935974,1,0,-1,0,Professional
+510,3,Full Buy,26.004717112386746,0,1,1,1,Professional
+510,4,Full Buy,24.094217789898956,0,0,-1,1,Professional
+510,5,Full Buy,40.42253074666105,1,0,-1,1,Professional
+510,6,Force,14.79234697891613,-1,0,-1,1,Professional
+510,7,Full Buy,22.34114748284141,0,0,-1,0,Professional
+510,8,Full Buy,5.481618045476978,0,0,-1,1,Professional
+510,9,Full Buy,40.8524227692569,0,0,-1,1,Professional
+510,10,Eco,36.25300147944753,-1,0,-1,0,Professional
+510,11,Full Buy,18.175639597020698,-1,0,-1,1,Professional
+510,12,Full Buy,30.660289131858182,-1,1,0,1,Professional
+510,13,Full Buy,19.093241424702676,0,1,0,1,Professional
+510,14,Full Buy,29.13677956178879,0,0,-1,0,Professional
+510,15,Full Buy,47.15763063215749,-1,0,-1,1,Professional
+510,16,Full Buy,24.08014721588721,-1,1,0,1,Professional
+510,17,Full Buy,33.47940258924654,1,1,1,1,Professional
+510,18,Full Buy,34.2119193069426,-1,0,-1,0,Professional
+510,19,Full Buy,41.25518793552331,1,0,-1,1,Professional
+511,1,Full Buy,32.148282495636884,-1,0,-1,0,Professional
+511,2,Full Buy,28.34624964497563,-1,0,-1,0,Professional
+511,3,Force,28.192761351720232,0,0,-1,1,Professional
+511,4,Full Buy,36.344605797472404,1,1,0,0,Professional
+511,5,Force,30.984952553319005,0,0,-1,1,Professional
+511,6,Full Buy,33.29424037584663,1,0,-1,1,Professional
+511,7,Full Buy,34.69091452570948,1,0,-1,1,Professional
+511,8,Full Buy,22.66109886668856,0,0,-1,1,Professional
+511,9,Force,45.337205443461514,-1,1,1,1,Professional
+511,10,Full Buy,22.181483045912188,1,0,-1,1,Professional
+511,11,Full Buy,23.842308042845907,1,0,-1,0,Professional
+511,12,Force,29.69657113604596,-1,0,-1,1,Professional
+511,13,Full Buy,33.26436450345525,1,0,-1,1,Professional
+511,14,Eco,54.511421580107246,0,1,1,0,Professional
+511,15,Full Buy,15.879092534739346,1,0,-1,0,Professional
+511,16,Full Buy,18.701986731025862,0,0,-1,0,Professional
+511,17,Full Buy,34.1857664991069,1,0,-1,0,Professional
+511,18,Eco,4.897383634851309,-1,0,-1,0,Professional
+511,19,Full Buy,28.43352518903183,1,0,-1,1,Professional
+511,20,Force,25.34495105912715,0,0,-1,0,Professional
+511,21,Full Buy,27.922871272446315,1,0,-1,1,Professional
+511,22,Full Buy,30.045686657960704,0,0,-1,1,Professional
+511,23,Force,20.548041728032544,1,0,-1,1,Professional
+512,1,Eco,12.59405404344043,1,1,0,0,Professional
+512,2,Full Buy,25.232331540667744,-1,0,-1,1,Professional
+512,3,Eco,30.315439141081097,1,1,1,1,Professional
+512,4,Full Buy,44.58995961510239,1,0,-1,0,Professional
+512,5,Eco,50.13567922086115,1,1,0,0,Professional
+512,6,Full Buy,28.26620592000154,-1,0,-1,1,Professional
+512,7,Full Buy,30.129045581329976,-1,0,-1,1,Professional
+512,8,Full Buy,22.526579253652585,-1,0,-1,1,Professional
+512,9,Full Buy,41.90638839109485,0,0,-1,1,Professional
+512,10,Full Buy,26.229059838391237,1,1,0,1,Professional
+512,11,Force,24.807324428050414,1,0,-1,0,Professional
+512,12,Force,35.56242757679878,1,0,-1,0,Professional
+512,13,Full Buy,43.64868354392197,0,0,-1,1,Professional
+512,14,Full Buy,24.19236070638344,1,1,1,1,Professional
+512,15,Full Buy,50.40354755162542,0,0,-1,1,Professional
+512,16,Full Buy,31.162933177033025,0,0,-1,1,Professional
+512,17,Full Buy,25.936422863159198,0,0,-1,1,Professional
+512,18,Full Buy,4.515558691426087,0,0,-1,1,Professional
+512,19,Full Buy,23.053377844790486,0,0,-1,1,Professional
+513,1,Force,42.152413305853685,1,1,0,0,Professional
+513,2,Full Buy,29.88389538398968,-1,1,0,1,Professional
+513,3,Full Buy,33.369847732604825,1,0,-1,1,Professional
+513,4,Full Buy,26.872010732137422,1,1,1,1,Professional
+513,5,Full Buy,18.24029644861084,1,0,-1,0,Professional
+513,6,Full Buy,16.374639980188583,0,0,-1,0,Professional
+513,7,Full Buy,42.85905697562649,1,1,0,1,Professional
+513,8,Eco,19.521999246576783,0,1,1,0,Professional
+513,9,Full Buy,39.990696864850506,1,0,-1,1,Professional
+513,10,Eco,14.15811692499934,-1,1,1,1,Professional
+513,11,Full Buy,21.162095747133808,-1,0,-1,0,Professional
+513,12,Force,15.47178916344864,0,0,-1,0,Professional
+513,13,Full Buy,25.505224471974245,0,0,-1,1,Professional
+513,14,Force,32.803188442255475,1,0,-1,1,Professional
+513,15,Full Buy,26.573718684400575,1,0,-1,0,Professional
+513,16,Eco,32.63039425310233,1,0,-1,0,Professional
+513,17,Eco,21.396143079597866,1,0,-1,1,Professional
+513,18,Force,42.477105578411475,0,0,-1,1,Professional
+513,19,Full Buy,15.865719457696809,1,0,-1,0,Professional
+514,1,Full Buy,20.296022949279617,1,0,-1,0,Professional
+514,2,Full Buy,27.8246977377917,1,0,-1,0,Professional
+514,3,Force,26.13116360241498,1,1,1,1,Professional
+514,4,Force,45.20208438883611,1,0,-1,1,Professional
+514,5,Force,29.685151978202708,0,0,-1,0,Professional
+514,6,Full Buy,15.154162578512274,1,0,-1,1,Professional
+514,7,Full Buy,29.760398824585675,1,1,1,1,Professional
+514,8,Force,35.72893679153135,0,0,-1,1,Professional
+514,9,Force,7.21641411340234,0,1,0,0,Professional
+514,10,Full Buy,36.627191859323304,-1,0,-1,1,Professional
+514,11,Full Buy,21.148904501599247,1,0,-1,1,Professional
+514,12,Full Buy,29.050976189280952,-1,0,-1,0,Professional
+514,13,Force,24.181768944785965,-1,0,-1,0,Professional
+514,14,Full Buy,29.255237494625153,-1,1,1,0,Professional
+514,15,Force,27.77680879396508,0,1,1,0,Professional
+514,16,Force,21.261290643431465,-1,0,-1,0,Professional
+514,17,Full Buy,28.828408868736734,1,1,0,0,Professional
+514,18,Eco,10.837833796082865,0,0,-1,0,Professional
+515,1,Full Buy,27.02895654867904,1,1,0,1,Professional
+515,2,Force,29.571968376051906,1,1,0,0,Professional
+515,3,Force,41.192964915862255,0,0,-1,0,Professional
+515,4,Full Buy,35.79124669310104,-1,0,-1,1,Professional
+515,5,Force,13.92754394528734,-1,0,-1,0,Professional
+515,6,Full Buy,37.46224267532234,-1,0,-1,1,Professional
+515,7,Full Buy,29.645761245078507,0,1,0,0,Professional
+515,8,Full Buy,22.84034000962715,0,1,1,0,Professional
+515,9,Full Buy,27.36833520540202,1,0,-1,1,Professional
+515,10,Force,34.55265363478962,1,0,-1,0,Professional
+515,11,Full Buy,28.079245314350487,1,0,-1,1,Professional
+515,12,Full Buy,36.010388726168685,-1,0,-1,1,Professional
+515,13,Full Buy,33.56307115471239,1,0,-1,1,Professional
+515,14,Eco,23.05224889731214,-1,0,-1,0,Professional
+515,15,Eco,42.39982166235803,0,0,-1,1,Professional
+515,16,Force,21.085975921873427,1,0,-1,0,Professional
+515,17,Full Buy,30.647038110146973,1,0,-1,0,Professional
+515,18,Force,19.261746070635574,1,0,-1,1,Professional
+516,1,Full Buy,11.711979858398301,1,0,-1,0,Professional
+516,2,Full Buy,35.23233152160823,1,0,-1,1,Professional
+516,3,Full Buy,24.69064951389496,1,0,-1,0,Professional
+516,4,Eco,22.314361140763523,0,1,1,0,Professional
+516,5,Full Buy,42.49064441445871,0,0,-1,1,Professional
+516,6,Eco,22.70984413800851,1,1,1,0,Professional
+516,7,Full Buy,20.850645510570256,-1,0,-1,0,Professional
+516,8,Full Buy,46.58315129160062,1,0,-1,1,Professional
+516,9,Full Buy,27.41703497115492,0,1,1,1,Professional
+516,10,Full Buy,20.17303188645117,1,0,-1,0,Professional
+516,11,Full Buy,19.685347577754214,1,1,1,1,Professional
+516,12,Force,14.982666487602618,0,0,-1,0,Professional
+516,13,Eco,23.200968355884854,1,0,-1,1,Professional
+516,14,Full Buy,19.05487267901341,1,0,-1,0,Professional
+516,15,Force,19.11422802659574,0,1,0,0,Professional
+516,16,Full Buy,35.361463020585944,0,0,-1,0,Professional
+516,17,Full Buy,30.790837780621036,-1,0,-1,0,Professional
+516,18,Eco,38.16907281343811,0,0,-1,0,Professional
+516,19,Eco,27.469930431036605,1,1,1,0,Professional
+516,20,Full Buy,32.13004808137104,1,1,0,0,Professional
+516,21,Force,35.338172301859125,1,1,0,1,Professional
+516,22,Full Buy,15.368337285301061,1,0,-1,1,Professional
+517,1,Full Buy,27.31037024353044,1,0,-1,1,Professional
+517,2,Full Buy,27.703286008733983,1,0,-1,1,Professional
+517,3,Full Buy,18.56454447020318,0,0,-1,1,Professional
+517,4,Full Buy,34.499633547802055,-1,0,-1,0,Professional
+517,5,Force,45.90952595981265,1,1,0,0,Professional
+517,6,Full Buy,20.654973821215687,1,0,-1,0,Professional
+517,7,Force,12.862856124175789,0,0,-1,1,Professional
+517,8,Full Buy,27.68690354190419,1,0,-1,0,Professional
+517,9,Full Buy,40.16831378752933,1,1,1,1,Professional
+517,10,Full Buy,13.252198434298768,0,0,-1,1,Professional
+517,11,Full Buy,23.742714457284908,0,0,-1,0,Professional
+517,12,Eco,17.26105750481745,0,0,-1,0,Professional
+517,13,Full Buy,32.153974463286204,1,0,-1,0,Professional
+517,14,Full Buy,25.26988909780148,0,0,-1,1,Professional
+517,15,Force,27.391794936857462,0,0,-1,0,Professional
+517,16,Full Buy,40.80752150139688,0,0,-1,1,Professional
+517,17,Full Buy,22.91486987684217,-1,1,0,1,Professional
+517,18,Full Buy,41.052090928235785,1,0,-1,0,Professional
+517,19,Full Buy,32.25644524373242,-1,0,-1,1,Professional
+517,20,Full Buy,27.423123646256883,1,0,-1,1,Professional
+517,21,Full Buy,29.80748604322137,1,0,-1,1,Professional
+517,22,Full Buy,8.172991495013044,-1,0,-1,0,Professional
+517,23,Full Buy,34.366638317996696,0,0,-1,1,Professional
+518,1,Eco,38.5350807741766,-1,0,-1,0,Professional
+518,2,Full Buy,36.05098785004149,1,0,-1,1,Professional
+518,3,Eco,7.474322984568882,-1,0,-1,0,Professional
+518,4,Full Buy,24.6547453354482,-1,0,-1,0,Professional
+518,5,Force,24.552664904716615,1,0,-1,0,Professional
+518,6,Eco,16.963730627898347,-1,0,-1,1,Professional
+518,7,Full Buy,30.349479880319016,1,0,-1,1,Professional
+518,8,Full Buy,23.903705852728066,-1,0,-1,1,Professional
+518,9,Full Buy,45.508327611533375,1,0,-1,1,Professional
+518,10,Full Buy,23.596681151019002,0,1,0,1,Professional
+518,11,Full Buy,11.441372735078701,0,0,-1,1,Professional
+518,12,Full Buy,30.35342829440851,1,1,1,1,Professional
+518,13,Full Buy,35.8888009380693,-1,0,-1,1,Professional
+518,14,Full Buy,13.032084695847434,1,0,-1,0,Professional
+518,15,Eco,11.950161875467614,0,0,-1,1,Professional
+518,16,Full Buy,30.20310927072679,0,1,1,1,Professional
+518,17,Full Buy,5.51290222036603,-1,0,-1,0,Professional
+518,18,Full Buy,13.158803670371984,0,0,-1,0,Professional
+518,19,Eco,32.50858878037302,1,0,-1,1,Professional
+518,20,Full Buy,21.05983874133588,0,1,0,1,Professional
+518,21,Full Buy,8.544413845206666,-1,0,-1,1,Professional
+518,22,Full Buy,31.505004153151116,1,0,-1,1,Professional
+518,23,Eco,40.02221596057833,0,0,-1,0,Professional
+519,1,Force,15.856826950096956,1,0,-1,0,Professional
+519,2,Full Buy,10.124344737482009,0,0,-1,1,Professional
+519,3,Full Buy,44.14540841922579,0,0,-1,0,Professional
+519,4,Eco,31.115360514616064,0,1,1,0,Professional
+519,5,Force,14.583236056745832,1,0,-1,0,Professional
+519,6,Full Buy,48.929531450980846,-1,0,-1,1,Professional
+519,7,Force,29.827277570296623,1,1,1,0,Professional
+519,8,Full Buy,49.71835481040185,-1,1,1,1,Professional
+519,9,Force,14.356618678432175,-1,0,-1,0,Professional
+519,10,Force,19.912357857188653,0,0,-1,0,Professional
+519,11,Full Buy,26.648827765922142,1,1,0,0,Professional
+519,12,Full Buy,15.191549719823875,1,0,-1,0,Professional
+519,13,Full Buy,44.632719655171634,-1,0,-1,0,Professional
+519,14,Force,36.77538921143282,-1,1,1,0,Professional
+519,15,Force,32.87304093908291,1,0,-1,1,Professional
+519,16,Full Buy,20.303551321796782,0,0,-1,0,Professional
+519,17,Full Buy,35.430856638518954,1,0,-1,1,Professional
+519,18,Full Buy,22.474690285358918,-1,0,-1,0,Professional
+519,19,Full Buy,50.39676358961138,1,1,1,1,Professional
+519,20,Full Buy,30.218647211056858,1,0,-1,1,Professional
+519,21,Full Buy,36.6006079220934,-1,0,-1,0,Professional
+519,22,Full Buy,27.73767162741243,1,0,-1,0,Professional
+519,23,Full Buy,23.478110782572834,0,1,0,0,Professional
+520,1,Full Buy,27.47865638220087,0,0,-1,0,Professional
+520,2,Eco,35.43856289615164,-1,1,1,0,Professional
+520,3,Full Buy,27.849524811798773,1,1,1,1,Professional
+520,4,Full Buy,8.039299088437112,0,0,-1,0,Professional
+520,5,Eco,14.224490601187107,0,0,-1,0,Professional
+520,6,Full Buy,22.63578080033478,1,0,-1,1,Professional
+520,7,Eco,25.2145419424159,0,1,0,0,Professional
+520,8,Eco,28.203039969839743,-1,1,1,0,Professional
+520,9,Force,26.33337151964038,1,0,-1,0,Professional
+520,10,Full Buy,56.83567613185491,-1,0,-1,1,Professional
+520,11,Full Buy,21.895630620376643,-1,0,-1,0,Professional
+520,12,Full Buy,25.16415650896979,-1,0,-1,1,Professional
+520,13,Full Buy,32.1391150951259,1,0,-1,1,Professional
+520,14,Force,53.193583249809905,0,0,-1,0,Professional
+520,15,Force,33.14471767469644,0,0,-1,0,Professional
+520,16,Full Buy,20.720212300307328,0,0,-1,0,Professional
+520,17,Full Buy,7.0152973964065595,0,0,-1,0,Professional
+520,18,Full Buy,44.347359262868906,-1,1,0,1,Professional
+520,19,Full Buy,23.570675721588398,0,0,-1,1,Professional
+520,20,Full Buy,53.6388280525351,1,1,0,0,Professional
+520,21,Force,27.53213230032083,0,0,-1,0,Professional
+520,22,Full Buy,9.10664726059455,1,0,-1,0,Professional
+521,1,Eco,21.364842316367486,0,0,-1,0,Professional
+521,2,Full Buy,26.026252027718257,0,1,1,1,Professional
+521,3,Full Buy,39.55755642566113,1,0,-1,1,Professional
+521,4,Full Buy,41.34865732661524,1,1,0,1,Professional
+521,5,Full Buy,40.073955133819226,1,0,-1,0,Professional
+521,6,Full Buy,32.18158657416366,0,0,-1,0,Professional
+521,7,Full Buy,53.37960069463542,-1,0,-1,1,Professional
+521,8,Force,26.603553088887455,-1,0,-1,0,Professional
+521,9,Full Buy,36.68804472544569,0,0,-1,1,Professional
+521,10,Full Buy,25.447917711208355,1,0,-1,0,Professional
+521,11,Full Buy,28.331914429473645,1,0,-1,1,Professional
+521,12,Force,13.814714050539706,-1,0,-1,0,Professional
+521,13,Force,23.55810932891621,0,0,-1,1,Professional
+521,14,Full Buy,31.48428431154532,-1,0,-1,0,Professional
+521,15,Eco,33.94545800324082,-1,0,-1,1,Professional
+521,16,Full Buy,27.239605199939756,0,0,-1,1,Professional
+521,17,Full Buy,17.067173401356605,-1,1,1,1,Professional
+521,18,Full Buy,20.391481872092,-1,1,0,0,Professional
+521,19,Full Buy,21.306944490488085,0,0,-1,0,Professional
+521,20,Full Buy,30.78097808296864,0,0,-1,1,Professional
+522,1,Full Buy,15.725649759006888,0,1,0,0,Professional
+522,2,Full Buy,18.69060382913247,-1,0,-1,1,Professional
+522,3,Full Buy,32.28339426090694,1,0,-1,0,Professional
+522,4,Full Buy,24.469378749890666,0,0,-1,0,Professional
+522,5,Full Buy,39.34433044637265,0,1,1,1,Professional
+522,6,Full Buy,23.063778982555895,-1,0,-1,0,Professional
+522,7,Full Buy,17.346683518478212,-1,0,-1,0,Professional
+522,8,Full Buy,18.020783973260002,-1,0,-1,0,Professional
+522,9,Force,49.06576601758691,0,0,-1,1,Professional
+522,10,Full Buy,18.190371628522747,-1,0,-1,0,Professional
+522,11,Full Buy,6.456137411675204,0,1,1,1,Professional
+522,12,Force,21.901124479141423,-1,0,-1,1,Professional
+522,13,Eco,25.56627017018953,0,0,-1,1,Professional
+522,14,Full Buy,15.831198540240695,0,1,0,0,Professional
+522,15,Full Buy,40.159992842347336,-1,1,0,0,Professional
+522,16,Eco,20.27084852295367,-1,1,1,1,Professional
+522,17,Full Buy,26.617479541420515,0,1,0,0,Professional
+522,18,Force,30.885557197570012,-1,0,-1,1,Professional
+522,19,Full Buy,24.510992531161,0,0,-1,0,Professional
+522,20,Force,22.97610800709312,-1,0,-1,1,Professional
+522,21,Force,4.9677698511029895,0,0,-1,1,Professional
+522,22,Full Buy,24.627467644236596,-1,0,-1,1,Professional
+523,1,Full Buy,20.925490459975162,0,0,-1,1,Professional
+523,2,Full Buy,34.902758903893684,-1,0,-1,0,Professional
+523,3,Eco,13.52703900151233,1,0,-1,0,Professional
+523,4,Full Buy,24.485689643564797,1,1,0,1,Professional
+523,5,Full Buy,7.078629336618786,0,0,-1,0,Professional
+523,6,Full Buy,20.17014270080612,0,0,-1,0,Professional
+523,7,Eco,31.81235128880497,-1,0,-1,0,Professional
+523,8,Force,35.57268144422802,1,0,-1,1,Professional
+523,9,Full Buy,26.93379938893023,1,0,-1,0,Professional
+523,10,Full Buy,9.094746746268779,1,0,-1,1,Professional
+523,11,Full Buy,28.3343280402922,0,0,-1,0,Professional
+523,12,Full Buy,24.353439272270936,-1,0,-1,0,Professional
+523,13,Full Buy,20.679028580152867,0,0,-1,0,Professional
+523,14,Full Buy,41.65196272793961,-1,1,1,1,Professional
+523,15,Full Buy,17.271931387749856,-1,0,-1,1,Professional
+523,16,Full Buy,38.37539110682175,1,1,1,1,Professional
+523,17,Force,25.539997003494044,1,1,1,0,Professional
+523,18,Full Buy,32.61935149488508,0,1,0,1,Professional
+523,19,Force,18.409601346758947,-1,0,-1,0,Professional
+523,20,Full Buy,28.240288634776743,1,1,0,1,Professional
+523,21,Full Buy,35.08129855417835,0,0,-1,1,Professional
+524,1,Eco,38.766319901907856,-1,0,-1,1,Professional
+524,2,Force,40.50087394174309,-1,0,-1,0,Professional
+524,3,Force,33.68993667335583,1,1,0,0,Professional
+524,4,Full Buy,38.8064190000159,1,0,-1,0,Professional
+524,5,Full Buy,32.83523016802303,-1,0,-1,1,Professional
+524,6,Full Buy,26.158059926873463,1,0,-1,0,Professional
+524,7,Full Buy,17.830156987615766,-1,0,-1,0,Professional
+524,8,Full Buy,28.722432750884234,0,0,-1,0,Professional
+524,9,Force,40.75604879396687,-1,1,0,1,Professional
+524,10,Eco,18.709398651976763,0,0,-1,1,Professional
+524,11,Full Buy,33.117531089757094,1,0,-1,1,Professional
+524,12,Full Buy,26.168981241607614,1,1,1,1,Professional
+524,13,Force,36.14375690580224,-1,0,-1,0,Professional
+524,14,Full Buy,28.024458613620144,1,0,-1,1,Professional
+524,15,Eco,16.613239052210574,1,0,-1,0,Professional
+524,16,Full Buy,35.650739406606995,-1,1,1,1,Professional
+524,17,Eco,25.942254440968966,0,0,-1,0,Professional
+524,18,Full Buy,29.482074578268232,1,0,-1,0,Professional
+524,19,Full Buy,36.16915902221271,-1,0,-1,0,Professional
+524,20,Full Buy,18.87054342694762,-1,1,1,1,Professional
+524,21,Full Buy,30.966491225989508,-1,0,-1,1,Professional
+524,22,Full Buy,42.635764983091484,-1,0,-1,0,Professional
+525,1,Force,40.07574367488105,1,0,-1,0,Professional
+525,2,Full Buy,39.438589974717615,0,0,-1,0,Professional
+525,3,Full Buy,16.5539660234428,0,0,-1,0,Professional
+525,4,Full Buy,14.90073801896098,0,0,-1,0,Professional
+525,5,Full Buy,38.83802635088493,-1,0,-1,1,Professional
+525,6,Force,27.415595909931888,1,0,-1,1,Professional
+525,7,Eco,17.565401623877307,0,0,-1,1,Professional
+525,8,Full Buy,41.38980906236091,0,1,1,1,Professional
+525,9,Eco,22.239426107511463,0,0,-1,0,Professional
+525,10,Force,41.500614326325284,0,0,-1,0,Professional
+525,11,Full Buy,23.494708396810246,0,0,-1,1,Professional
+525,12,Force,7.831265918122973,-1,0,-1,1,Professional
+525,13,Force,33.56095674357664,1,1,0,1,Professional
+525,14,Full Buy,32.91560635189674,1,0,-1,1,Professional
+525,15,Full Buy,30.017326437388913,1,0,-1,1,Professional
+525,16,Full Buy,13.614004787184053,0,1,1,1,Professional
+525,17,Force,36.73655690058672,1,0,-1,1,Professional
+525,18,Force,50.755872356739886,-1,0,-1,0,Professional
+525,19,Full Buy,38.61772601994522,1,1,1,1,Professional
+525,20,Full Buy,37.7457745139595,0,1,0,1,Professional
+525,21,Eco,30.128808653193193,-1,0,-1,1,Professional
+525,22,Full Buy,17.169486498300074,1,0,-1,0,Professional
+526,1,Full Buy,29.27495785534506,1,0,-1,1,Professional
+526,2,Full Buy,31.525148063878873,1,0,-1,0,Professional
+526,3,Full Buy,18.42687956998803,-1,0,-1,0,Professional
+526,4,Full Buy,22.915740078614256,0,0,-1,1,Professional
+526,5,Full Buy,26.21722440070868,0,0,-1,1,Professional
+526,6,Full Buy,28.15049530014719,-1,0,-1,1,Professional
+526,7,Full Buy,34.510983295986065,0,0,-1,1,Professional
+526,8,Full Buy,26.634969496172253,0,1,0,1,Professional
+526,9,Eco,15.743811916884765,0,0,-1,0,Professional
+526,10,Full Buy,22.159538147092313,0,0,-1,0,Professional
+526,11,Full Buy,12.799947985491169,-1,0,-1,1,Professional
+526,12,Full Buy,22.288604385600934,0,0,-1,0,Professional
+526,13,Full Buy,31.645636324014102,0,1,0,0,Professional
+526,14,Full Buy,32.93228221469212,-1,0,-1,1,Professional
+526,15,Full Buy,29.78538736269384,0,0,-1,0,Professional
+526,16,Full Buy,14.130126874367175,1,0,-1,0,Professional
+526,17,Eco,44.03623591913397,-1,0,-1,1,Professional
+526,18,Full Buy,16.849819303899316,1,0,-1,0,Professional
+526,19,Full Buy,47.87033903954452,0,0,-1,1,Professional
+526,20,Full Buy,26.00994712987342,-1,0,-1,1,Professional
+526,21,Full Buy,3.7806307324349646,1,0,-1,1,Professional
+526,22,Full Buy,19.714231000689303,-1,0,-1,0,Professional
+526,23,Full Buy,31.58295291863772,0,0,-1,1,Professional
+527,1,Eco,16.14384084822649,-1,0,-1,0,Professional
+527,2,Full Buy,20.830571432871693,0,0,-1,0,Professional
+527,3,Full Buy,34.589185061628385,-1,0,-1,1,Professional
+527,4,Force,21.712491326749856,1,0,-1,0,Professional
+527,5,Force,45.673617047381505,-1,1,1,1,Professional
+527,6,Full Buy,23.90856776928777,1,0,-1,0,Professional
+527,7,Full Buy,28.835161438274596,1,0,-1,1,Professional
+527,8,Full Buy,30.627733580463698,1,0,-1,1,Professional
+527,9,Full Buy,45.77765373365526,1,1,0,0,Professional
+527,10,Full Buy,37.082480951552355,0,0,-1,1,Professional
+527,11,Full Buy,59.50418623556584,-1,0,-1,1,Professional
+527,12,Full Buy,29.677413851748895,-1,0,-1,0,Professional
+527,13,Full Buy,48.57284003397362,-1,1,0,1,Professional
+527,14,Full Buy,27.25255508202959,-1,0,-1,0,Professional
+527,15,Force,27.0525295337816,0,0,-1,0,Professional
+527,16,Full Buy,16.492179620589038,-1,1,1,1,Professional
+527,17,Full Buy,22.51710564703532,0,0,-1,1,Professional
+527,18,Full Buy,34.83715974436316,1,1,0,1,Professional
+527,19,Full Buy,40.11150005971241,1,0,-1,1,Professional
+527,20,Full Buy,31.861836305326374,0,0,-1,1,Professional
+527,21,Full Buy,24.098652369503622,1,0,-1,0,Professional
+527,22,Full Buy,12.286576278939588,1,0,-1,0,Professional
+527,23,Full Buy,25.64951847948689,-1,0,-1,0,Professional
+528,1,Full Buy,20.356969809409634,1,0,-1,0,Professional
+528,2,Full Buy,31.408180361984105,-1,0,-1,1,Professional
+528,3,Full Buy,40.716378794073904,0,0,-1,0,Professional
+528,4,Full Buy,31.660852911301376,-1,0,-1,1,Professional
+528,5,Full Buy,36.715592887021074,0,1,0,0,Professional
+528,6,Full Buy,30.35328239886364,1,1,1,0,Professional
+528,7,Force,30.858347231865395,1,0,-1,0,Professional
+528,8,Full Buy,20.899587677638447,-1,0,-1,1,Professional
+528,9,Full Buy,43.58744859131497,1,0,-1,1,Professional
+528,10,Full Buy,28.000537766543736,-1,0,-1,0,Professional
+528,11,Force,24.583485340849574,-1,0,-1,1,Professional
+528,12,Full Buy,19.21019599218471,-1,0,-1,1,Professional
+528,13,Full Buy,24.09222853391873,1,1,1,0,Professional
+528,14,Full Buy,23.723042754205988,-1,1,1,1,Professional
+528,15,Force,37.99407434101084,-1,0,-1,1,Professional
+528,16,Eco,32.978950685628504,1,0,-1,1,Professional
+528,17,Full Buy,17.015734022569433,0,0,-1,0,Professional
+528,18,Full Buy,12.576776122562427,-1,0,-1,0,Professional
+528,19,Full Buy,22.9251365626994,-1,0,-1,1,Professional
+528,20,Full Buy,27.18863557702853,1,1,1,0,Professional
+528,21,Full Buy,2.447544329317246,-1,1,0,0,Professional
+529,1,Full Buy,36.676337666489246,1,0,-1,1,Professional
+529,2,Full Buy,22.339824332012054,-1,0,-1,1,Professional
+529,3,Full Buy,0.0,0,0,-1,1,Professional
+529,4,Full Buy,30.184161761893463,-1,1,1,1,Professional
+529,5,Full Buy,27.910447306969996,1,0,-1,0,Professional
+529,6,Full Buy,20.118772789184142,0,1,1,0,Professional
+529,7,Full Buy,32.93027128406416,1,1,1,1,Professional
+529,8,Full Buy,23.340024803374277,1,0,-1,1,Professional
+529,9,Full Buy,11.326199755054482,0,1,1,0,Professional
+529,10,Eco,49.10529587957221,0,0,-1,0,Professional
+529,11,Full Buy,22.46241345945345,0,0,-1,1,Professional
+529,12,Eco,16.432582293023295,0,0,-1,0,Professional
+529,13,Full Buy,25.599186865171507,0,0,-1,1,Professional
+529,14,Eco,30.17287717062851,-1,0,-1,0,Professional
+529,15,Force,14.532891626102085,0,0,-1,1,Professional
+529,16,Full Buy,32.60975813231049,1,1,1,1,Professional
+529,17,Full Buy,35.61616654051052,1,0,-1,1,Professional
+529,18,Force,14.325092386208212,-1,0,-1,1,Professional
+529,19,Full Buy,42.79025948634066,-1,0,-1,1,Professional
+530,1,Full Buy,29.41394513985761,-1,0,-1,0,Professional
+530,2,Eco,28.705727845950555,0,0,-1,0,Professional
+530,3,Force,35.03178945573335,0,0,-1,0,Professional
+530,4,Full Buy,35.863702434279475,-1,0,-1,0,Professional
+530,5,Full Buy,33.813398712136106,1,1,1,1,Professional
+530,6,Force,20.400313763852697,-1,0,-1,0,Professional
+530,7,Full Buy,32.449715176248596,-1,0,-1,1,Professional
+530,8,Full Buy,36.22242709755241,0,0,-1,1,Professional
+530,9,Full Buy,31.68588260916752,-1,1,1,0,Professional
+530,10,Full Buy,11.52379550024353,0,0,-1,0,Professional
+530,11,Full Buy,30.167565277780955,-1,0,-1,0,Professional
+530,12,Force,25.452115924026753,0,0,-1,1,Professional
+530,13,Full Buy,20.18859786924122,-1,0,-1,0,Professional
+530,14,Full Buy,53.14766688559563,0,0,-1,0,Professional
+530,15,Full Buy,45.80789164412607,0,0,-1,1,Professional
+530,16,Force,29.390588683667666,1,0,-1,1,Professional
+530,17,Force,23.71833369150651,-1,0,-1,1,Professional
+530,18,Full Buy,40.63647097265292,0,1,1,1,Professional
+530,19,Full Buy,33.62063648412476,1,1,0,1,Professional
+531,1,Eco,38.815788237048096,0,0,-1,0,Professional
+531,2,Full Buy,29.292831584302647,0,0,-1,0,Professional
+531,3,Force,19.61954168273199,0,0,-1,1,Professional
+531,4,Full Buy,34.59872275059688,1,0,-1,1,Professional
+531,5,Full Buy,45.16803246560899,1,0,-1,1,Professional
+531,6,Force,40.41455119353816,1,0,-1,1,Professional
+531,7,Full Buy,24.91909042311369,0,0,-1,1,Professional
+531,8,Full Buy,30.286476865935967,1,0,-1,1,Professional
+531,9,Full Buy,9.863966954917341,1,0,-1,1,Professional
+531,10,Full Buy,30.769114797400206,-1,0,-1,1,Professional
+531,11,Full Buy,40.409381736953875,1,0,-1,1,Professional
+531,12,Full Buy,26.106117139816504,0,0,-1,1,Professional
+531,13,Full Buy,29.128266924235692,-1,0,-1,0,Professional
+531,14,Force,33.96585561438912,-1,0,-1,0,Professional
+531,15,Eco,31.110646868034348,0,0,-1,0,Professional
+531,16,Full Buy,15.130482083389541,-1,0,-1,1,Professional
+531,17,Force,9.01817987426568,1,1,1,1,Professional
+531,18,Full Buy,27.13865815776117,1,0,-1,0,Professional
+531,19,Full Buy,22.51643431668797,-1,0,-1,0,Professional
+531,20,Eco,23.394033523851753,-1,0,-1,0,Professional
+531,21,Full Buy,35.72761079953404,1,0,-1,1,Professional
+531,22,Full Buy,15.48326071038048,0,0,-1,0,Professional
+531,23,Force,28.540247155273168,-1,0,-1,1,Professional
+532,1,Full Buy,34.8013385934477,1,1,1,1,Professional
+532,2,Full Buy,3.985745915682621,1,0,-1,0,Professional
+532,3,Force,28.429852399487725,1,0,-1,1,Professional
+532,4,Full Buy,33.14686006711935,-1,0,-1,1,Professional
+532,5,Full Buy,55.045065954106065,1,0,-1,1,Professional
+532,6,Full Buy,23.01564908894719,0,0,-1,1,Professional
+532,7,Full Buy,11.342364868376826,0,0,-1,0,Professional
+532,8,Force,32.0472909297978,0,0,-1,0,Professional
+532,9,Eco,26.767828745505128,0,0,-1,0,Professional
+532,10,Full Buy,16.225786571021942,0,0,-1,0,Professional
+532,11,Full Buy,41.228344797358055,0,0,-1,1,Professional
+532,12,Full Buy,40.6237352289626,0,0,-1,1,Professional
+532,13,Full Buy,20.411088657340308,-1,0,-1,0,Professional
+532,14,Full Buy,30.835026563690057,1,0,-1,1,Professional
+532,15,Full Buy,12.86425209165845,0,0,-1,1,Professional
+532,16,Full Buy,37.923825366760596,0,1,0,1,Professional
+532,17,Full Buy,19.23872652593073,1,0,-1,0,Professional
+532,18,Full Buy,35.52329064612958,0,0,-1,1,Professional
+532,19,Force,44.693300172206094,-1,1,0,0,Professional
+533,1,Full Buy,27.79738124042914,-1,0,-1,0,Professional
+533,2,Full Buy,21.51506721733994,-1,0,-1,0,Professional
+533,3,Full Buy,0.3907964199417293,0,1,0,0,Professional
+533,4,Force,14.727994676477584,-1,0,-1,0,Professional
+533,5,Full Buy,39.698405942728634,0,0,-1,0,Professional
+533,6,Full Buy,21.363675966116908,-1,0,-1,1,Professional
+533,7,Full Buy,29.169300559999268,1,0,-1,1,Professional
+533,8,Full Buy,29.261226028792482,1,0,-1,0,Professional
+533,9,Full Buy,21.52560114081448,-1,0,-1,1,Professional
+533,10,Full Buy,47.063116843964835,0,0,-1,0,Professional
+533,11,Force,36.04524819413875,0,0,-1,1,Professional
+533,12,Eco,15.001638076243664,0,1,0,0,Professional
+533,13,Force,39.424146033532935,1,0,-1,1,Professional
+533,14,Eco,35.62481677485776,0,0,-1,1,Professional
+533,15,Full Buy,35.70342636989168,0,0,-1,0,Professional
+533,16,Force,39.91949813255663,0,0,-1,1,Professional
+533,17,Full Buy,31.148830852648327,1,0,-1,1,Professional
+533,18,Full Buy,19.80746871229849,-1,0,-1,1,Professional
+533,19,Full Buy,30.67228783841507,-1,0,-1,1,Professional
+534,1,Eco,40.23258303353038,1,0,-1,0,Professional
+534,2,Force,30.453001652441237,1,0,-1,1,Professional
+534,3,Full Buy,16.019898195482707,1,0,-1,1,Professional
+534,4,Full Buy,9.97927036943955,-1,0,-1,1,Professional
+534,5,Force,21.98878784638,-1,0,-1,1,Professional
+534,6,Full Buy,14.486961818099704,0,0,-1,1,Professional
+534,7,Full Buy,21.70998566999169,-1,0,-1,0,Professional
+534,8,Full Buy,34.269137055812635,0,0,-1,0,Professional
+534,9,Full Buy,19.360625943718812,1,0,-1,1,Professional
+534,10,Full Buy,24.276882009562602,0,0,-1,0,Professional
+534,11,Full Buy,21.275625615102108,-1,1,0,0,Professional
+534,12,Full Buy,41.57703318208321,0,0,-1,1,Professional
+534,13,Full Buy,36.716423911352386,0,1,1,1,Professional
+534,14,Force,36.087310975983755,-1,0,-1,0,Professional
+534,15,Full Buy,28.038212281125848,1,1,0,0,Professional
+534,16,Full Buy,35.30659969252629,0,1,1,1,Professional
+534,17,Full Buy,1.4066206860797266,0,0,-1,1,Professional
+534,18,Full Buy,15.639098336965066,1,0,-1,1,Professional
+534,19,Force,19.71632726141948,0,0,-1,0,Professional
+534,20,Full Buy,17.208659631420137,1,0,-1,0,Professional
+534,21,Full Buy,31.35753330231987,0,0,-1,1,Professional
+534,22,Full Buy,17.29667927072261,-1,1,1,1,Professional
+535,1,Force,32.64265731658958,1,1,0,1,Professional
+535,2,Full Buy,37.263338237628794,-1,0,-1,1,Professional
+535,3,Full Buy,37.07225866700048,1,0,-1,0,Professional
+535,4,Full Buy,20.349604298337923,0,0,-1,0,Professional
+535,5,Full Buy,21.89904540754369,0,0,-1,1,Professional
+535,6,Eco,32.61983889067121,0,0,-1,0,Professional
+535,7,Full Buy,19.31371608872578,-1,0,-1,1,Professional
+535,8,Full Buy,32.12423558537626,0,0,-1,1,Professional
+535,9,Full Buy,17.49357373360689,-1,0,-1,0,Professional
+535,10,Full Buy,12.999376090803079,0,0,-1,0,Professional
+535,11,Force,15.724908788587864,1,0,-1,1,Professional
+535,12,Full Buy,22.510559807440913,0,1,1,1,Professional
+535,13,Full Buy,42.56077307507965,1,0,-1,0,Professional
+535,14,Force,40.281431455669875,1,0,-1,1,Professional
+535,15,Force,25.667833729019748,1,0,-1,0,Professional
+535,16,Full Buy,47.45309022399073,0,1,1,1,Professional
+535,17,Force,18.258934470429963,-1,0,-1,0,Professional
+535,18,Force,21.68976251632213,1,0,-1,0,Professional
+535,19,Full Buy,23.62358326011421,0,1,1,1,Professional
+535,20,Full Buy,21.209913324790772,-1,0,-1,1,Professional
+535,21,Force,9.728888308380434,0,0,-1,0,Professional
+535,22,Full Buy,30.139638579628564,1,0,-1,0,Professional
+535,23,Force,21.50939718120651,1,0,-1,0,Professional
+536,1,Full Buy,41.670482200597974,1,0,-1,1,Professional
+536,2,Full Buy,28.84588708691456,0,0,-1,0,Professional
+536,3,Full Buy,12.356211400977084,1,0,-1,0,Professional
+536,4,Full Buy,26.588988538419446,-1,0,-1,1,Professional
+536,5,Full Buy,41.92198280484743,1,0,-1,0,Professional
+536,6,Full Buy,9.38838746479745,0,1,0,1,Professional
+536,7,Eco,34.96647035631729,-1,0,-1,0,Professional
+536,8,Full Buy,29.425193531845,0,0,-1,1,Professional
+536,9,Full Buy,21.314234325664227,-1,1,0,0,Professional
+536,10,Eco,35.209002169342234,-1,0,-1,0,Professional
+536,11,Full Buy,28.48248296006844,0,0,-1,1,Professional
+536,12,Full Buy,28.537632790347622,1,0,-1,0,Professional
+536,13,Force,38.04230570599606,-1,0,-1,0,Professional
+536,14,Full Buy,39.669625090722775,-1,1,1,1,Professional
+536,15,Full Buy,29.467592704495587,1,0,-1,1,Professional
+536,16,Full Buy,30.37908704433913,1,1,0,1,Professional
+536,17,Full Buy,12.640241541409404,1,0,-1,0,Professional
+536,18,Full Buy,16.053612696998066,1,0,-1,0,Professional
+536,19,Force,37.85058039399432,0,0,-1,0,Professional
+536,20,Full Buy,45.806410341927574,0,1,0,0,Professional
+536,21,Full Buy,21.22498781870715,1,0,-1,1,Professional
+537,1,Full Buy,13.816186256917284,-1,0,-1,1,Professional
+537,2,Full Buy,43.19226594114212,-1,0,-1,1,Professional
+537,3,Full Buy,49.01451186116173,1,1,0,1,Professional
+537,4,Full Buy,21.452806414300387,0,0,-1,0,Professional
+537,5,Full Buy,20.325800797828855,0,0,-1,0,Professional
+537,6,Full Buy,19.8699195906692,0,0,-1,0,Professional
+537,7,Full Buy,24.736196151091512,1,0,-1,0,Professional
+537,8,Full Buy,17.923016212297952,1,0,-1,1,Professional
+537,9,Full Buy,43.24726957002119,0,0,-1,1,Professional
+537,10,Full Buy,26.224912968461453,1,0,-1,0,Professional
+537,11,Full Buy,25.225989806265453,-1,0,-1,1,Professional
+537,12,Full Buy,25.838837136426932,-1,0,-1,1,Professional
+537,13,Full Buy,49.614998179148195,1,0,-1,1,Professional
+537,14,Full Buy,25.010742135222365,0,0,-1,1,Professional
+537,15,Full Buy,47.22180347316335,-1,0,-1,1,Professional
+537,16,Full Buy,41.51854962525007,1,0,-1,1,Professional
+537,17,Full Buy,37.79918863246783,-1,0,-1,1,Professional
+537,18,Full Buy,27.628952434582903,1,0,-1,0,Professional
+537,19,Force,25.814206849011395,1,1,1,1,Professional
+537,20,Full Buy,29.798794470125337,0,0,-1,1,Professional
+537,21,Eco,30.692413042386782,-1,0,-1,0,Professional
+537,22,Force,29.523117276343623,0,0,-1,0,Professional
+537,23,Full Buy,13.708864671865719,0,0,-1,1,Professional
+538,1,Full Buy,11.392982179941317,0,0,-1,0,Professional
+538,2,Force,10.568437140038519,0,0,-1,0,Professional
+538,3,Full Buy,30.780488665385718,-1,1,1,1,Professional
+538,4,Full Buy,14.658705033339992,0,1,0,0,Professional
+538,5,Full Buy,21.45322747424294,1,0,-1,1,Professional
+538,6,Force,44.297523868730224,0,0,-1,1,Professional
+538,7,Full Buy,21.13422818814141,-1,0,-1,1,Professional
+538,8,Eco,33.03652145936075,0,1,0,0,Professional
+538,9,Full Buy,36.90620562063156,1,0,-1,1,Professional
+538,10,Force,33.70231563700267,1,0,-1,1,Professional
+538,11,Full Buy,17.34488327637952,1,1,0,0,Professional
+538,12,Full Buy,38.49544010132702,-1,0,-1,0,Professional
+538,13,Eco,35.076659367459996,1,0,-1,1,Professional
+538,14,Full Buy,24.43247898182202,-1,0,-1,1,Professional
+538,15,Eco,20.092919450423825,0,0,-1,1,Professional
+538,16,Full Buy,28.244286158860902,1,0,-1,1,Professional
+538,17,Full Buy,13.80087020341069,1,0,-1,1,Professional
+538,18,Full Buy,32.1683022239227,1,0,-1,1,Professional
+539,1,Full Buy,27.749880996239856,1,0,-1,1,Professional
+539,2,Eco,31.901469308442373,-1,0,-1,1,Professional
+539,3,Full Buy,21.175070299241668,1,0,-1,1,Professional
+539,4,Full Buy,34.408066653590694,-1,1,0,1,Professional
+539,5,Full Buy,19.566898291012492,1,0,-1,1,Professional
+539,6,Force,8.179439859374785,0,0,-1,0,Professional
+539,7,Full Buy,29.410880577577185,0,0,-1,1,Professional
+539,8,Force,25.270687376877138,0,0,-1,0,Professional
+539,9,Full Buy,21.057233280513415,1,0,-1,0,Professional
+539,10,Full Buy,36.74349591990756,1,0,-1,0,Professional
+539,11,Force,25.031893880465034,1,0,-1,0,Professional
+539,12,Full Buy,43.32484689866396,0,1,0,1,Professional
+539,13,Force,23.916917537474497,0,0,-1,0,Professional
+539,14,Full Buy,38.36457036775445,1,0,-1,1,Professional
+539,15,Full Buy,33.872234033263226,0,0,-1,1,Professional
+539,16,Full Buy,46.21910216855525,1,1,0,0,Professional
+539,17,Full Buy,12.161486628891275,-1,0,-1,0,Professional
+539,18,Full Buy,13.222917704164107,0,0,-1,1,Professional
+539,19,Full Buy,30.243337194022075,0,0,-1,1,Professional
+539,20,Full Buy,32.47866626827107,-1,0,-1,1,Professional
+540,1,Force,23.447508425696512,0,0,-1,0,Professional
+540,2,Full Buy,33.0634344582848,1,0,-1,1,Professional
+540,3,Full Buy,10.96150783739066,-1,1,0,1,Professional
+540,4,Full Buy,37.232063448046745,1,1,1,1,Professional
+540,5,Force,9.190329261374849,1,1,1,1,Professional
+540,6,Full Buy,14.478075498761255,-1,0,-1,0,Professional
+540,7,Full Buy,45.152960973999285,-1,0,-1,0,Professional
+540,8,Full Buy,57.00477510708913,1,0,-1,0,Professional
+540,9,Force,17.39391896847592,-1,0,-1,1,Professional
+540,10,Full Buy,30.275128880714227,1,0,-1,0,Professional
+540,11,Full Buy,24.011850233662585,1,1,0,1,Professional
+540,12,Full Buy,28.50666999989399,1,0,-1,0,Professional
+540,13,Eco,26.812148691724207,1,0,-1,0,Professional
+540,14,Force,7.919596026757866,0,0,-1,0,Professional
+540,15,Full Buy,29.606838601439243,-1,1,1,0,Professional
+540,16,Full Buy,25.644083943058483,0,0,-1,1,Professional
+540,17,Full Buy,14.18495156475115,1,1,0,1,Professional
+540,18,Force,24.022424565588867,1,0,-1,0,Professional
+540,19,Full Buy,35.232723735890815,0,0,-1,0,Professional
+540,20,Full Buy,17.098938119712408,1,1,1,1,Professional
+540,21,Force,20.088699738357935,0,1,1,0,Professional
+540,22,Force,23.581362366773718,1,0,-1,0,Professional
+540,23,Full Buy,46.71675237957468,0,0,-1,1,Professional
+541,1,Full Buy,28.5170852879388,-1,0,-1,0,Professional
+541,2,Full Buy,27.684668365680864,0,0,-1,0,Professional
+541,3,Full Buy,16.44027648133678,-1,0,-1,1,Professional
+541,4,Full Buy,29.83255144420495,1,0,-1,0,Professional
+541,5,Full Buy,33.60666988098951,-1,0,-1,1,Professional
+541,6,Full Buy,39.26094896931305,1,0,-1,1,Professional
+541,7,Force,23.474269497462934,1,0,-1,0,Professional
+541,8,Full Buy,31.58289950784048,-1,0,-1,1,Professional
+541,9,Eco,29.5552773374445,-1,0,-1,1,Professional
+541,10,Full Buy,30.63081274075399,0,0,-1,1,Professional
+541,11,Full Buy,33.19435661373454,-1,0,-1,0,Professional
+541,12,Full Buy,20.22231602935592,-1,1,0,1,Professional
+541,13,Full Buy,39.81978788103646,-1,1,1,1,Professional
+541,14,Full Buy,41.0932572366971,1,0,-1,1,Professional
+541,15,Full Buy,21.047380347749172,0,0,-1,0,Professional
+541,16,Eco,8.490810108196484,1,0,-1,0,Professional
+541,17,Full Buy,29.226691451672192,1,0,-1,0,Professional
+541,18,Full Buy,33.56833986858921,1,1,1,1,Professional
+541,19,Full Buy,9.188989171003186,-1,0,-1,1,Professional
+541,20,Full Buy,32.97448314253342,1,0,-1,0,Professional
+541,21,Full Buy,25.92413136297054,1,0,-1,0,Professional
+541,22,Full Buy,19.34151534953777,0,0,-1,1,Professional
+541,23,Full Buy,23.008350770677374,1,0,-1,1,Professional
+542,1,Full Buy,0.0,0,0,-1,1,Professional
+542,2,Full Buy,24.62760123267423,-1,1,0,0,Professional
+542,3,Full Buy,27.849996115656182,0,1,0,0,Professional
+542,4,Force,28.882531212060556,0,0,-1,0,Professional
+542,5,Full Buy,23.233194058703862,-1,0,-1,1,Professional
+542,6,Full Buy,21.65479123344531,-1,1,0,1,Professional
+542,7,Full Buy,14.381134279986435,1,0,-1,1,Professional
+542,8,Force,29.317634322431665,-1,0,-1,0,Professional
+542,9,Force,36.48933614035562,1,0,-1,0,Professional
+542,10,Force,39.366491653854624,0,0,-1,0,Professional
+542,11,Full Buy,20.60564085848742,1,1,1,0,Professional
+542,12,Full Buy,31.403325748368125,1,0,-1,1,Professional
+542,13,Full Buy,30.81842712411102,0,0,-1,0,Professional
+542,14,Full Buy,35.46033210530584,1,0,-1,1,Professional
+542,15,Full Buy,40.43775399133318,0,1,1,1,Professional
+542,16,Eco,36.95735959471357,1,0,-1,0,Professional
+542,17,Full Buy,27.62361391229597,1,0,-1,0,Professional
+542,18,Full Buy,28.843347261350498,0,0,-1,1,Professional
+542,19,Full Buy,43.084448927731486,-1,0,-1,1,Professional
+542,20,Full Buy,6.354425393520355,0,1,0,0,Professional
+543,1,Full Buy,31.099107132274607,-1,0,-1,1,Professional
+543,2,Full Buy,46.05658857738136,-1,0,-1,0,Professional
+543,3,Eco,7.128684988566636,1,0,-1,1,Professional
+543,4,Full Buy,37.54621477504958,1,0,-1,0,Professional
+543,5,Eco,20.566463199070473,0,0,-1,1,Professional
+543,6,Eco,28.640980684668804,0,0,-1,0,Professional
+543,7,Full Buy,15.520879470124447,-1,1,0,0,Professional
+543,8,Force,43.56730047021582,1,0,-1,1,Professional
+543,9,Eco,54.764819667630526,-1,0,-1,0,Professional
+543,10,Full Buy,26.46082945440539,1,0,-1,1,Professional
+543,11,Full Buy,32.81139154244575,1,0,-1,1,Professional
+543,12,Full Buy,11.01655153720278,-1,0,-1,0,Professional
+543,13,Full Buy,30.015274141647044,-1,0,-1,1,Professional
+543,14,Full Buy,42.95081204247865,0,0,-1,0,Professional
+543,15,Full Buy,26.02746379525548,-1,0,-1,1,Professional
+543,16,Full Buy,27.989181122118573,1,0,-1,0,Professional
+543,17,Force,44.350073320731596,1,0,-1,1,Professional
+543,18,Force,43.82707943066491,0,0,-1,1,Professional
+544,1,Force,13.05361928246408,-1,1,1,1,Professional
+544,2,Full Buy,15.483717008562143,1,0,-1,1,Professional
+544,3,Full Buy,14.069814338048925,0,0,-1,1,Professional
+544,4,Full Buy,32.41350773616931,0,0,-1,0,Professional
+544,5,Full Buy,12.792591647739552,1,0,-1,1,Professional
+544,6,Full Buy,36.772489094530286,-1,0,-1,1,Professional
+544,7,Full Buy,38.929147051614635,1,0,-1,0,Professional
+544,8,Force,48.560812499215594,1,1,1,1,Professional
+544,9,Full Buy,26.205133588019212,-1,0,-1,1,Professional
+544,10,Full Buy,39.871908948745315,-1,0,-1,1,Professional
+544,11,Full Buy,10.081327329233407,1,1,1,1,Professional
+544,12,Full Buy,15.138382497900011,-1,0,-1,1,Professional
+544,13,Full Buy,17.764649771174053,1,0,-1,0,Professional
+544,14,Eco,26.980593633959817,1,1,1,1,Professional
+544,15,Full Buy,17.826559456150548,-1,0,-1,0,Professional
+544,16,Force,31.940952140663782,1,0,-1,1,Professional
+544,17,Eco,22.85350344143363,-1,1,0,0,Professional
+544,18,Eco,35.15002041512172,-1,1,0,0,Professional
+544,19,Full Buy,30.01024245094708,1,0,-1,1,Professional
+544,20,Full Buy,10.297867387650392,0,1,1,1,Professional
+545,1,Force,3.1454436607985343,1,0,-1,0,Professional
+545,2,Eco,28.917091458966162,1,0,-1,0,Professional
+545,3,Force,12.177001009039166,0,1,1,1,Professional
+545,4,Eco,30.13775694850167,0,1,0,0,Professional
+545,5,Full Buy,27.532082323805003,1,0,-1,0,Professional
+545,6,Eco,15.655977959953928,1,1,1,0,Professional
+545,7,Full Buy,29.919070189504502,-1,0,-1,1,Professional
+545,8,Full Buy,26.967159671686442,-1,0,-1,0,Professional
+545,9,Full Buy,30.163393845710036,-1,0,-1,1,Professional
+545,10,Full Buy,25.330733933600868,-1,1,1,1,Professional
+545,11,Full Buy,37.52244229663397,0,0,-1,1,Professional
+545,12,Full Buy,21.89014152142849,-1,1,0,0,Professional
+545,13,Full Buy,39.890777709469916,-1,0,-1,1,Professional
+545,14,Full Buy,20.498041385949037,-1,0,-1,0,Professional
+545,15,Force,28.36751551267293,0,1,0,1,Professional
+545,16,Full Buy,25.63147128903132,-1,0,-1,1,Professional
+545,17,Full Buy,34.14210015959835,0,0,-1,1,Professional
+545,18,Eco,22.132352736011992,-1,0,-1,0,Professional
+545,19,Full Buy,40.72026483075612,-1,1,0,1,Professional
+545,20,Force,31.923036512376676,0,1,0,1,Professional
+546,1,Force,17.32342199607568,-1,0,-1,1,Professional
+546,2,Full Buy,35.81282517080102,0,0,-1,0,Professional
+546,3,Full Buy,21.734969341814796,-1,0,-1,0,Professional
+546,4,Full Buy,15.566751931908609,1,0,-1,1,Professional
+546,5,Force,14.796020758289984,1,0,-1,1,Professional
+546,6,Full Buy,35.42805813803955,-1,0,-1,1,Professional
+546,7,Eco,27.666026804047718,-1,0,-1,0,Professional
+546,8,Full Buy,18.868598969999145,1,0,-1,0,Professional
+546,9,Eco,31.664562641334612,-1,0,-1,1,Professional
+546,10,Force,37.4891725685026,0,0,-1,1,Professional
+546,11,Eco,45.54204008462587,-1,0,-1,0,Professional
+546,12,Full Buy,17.209609336448402,-1,0,-1,0,Professional
+546,13,Full Buy,28.826483845351657,1,0,-1,0,Professional
+546,14,Full Buy,38.92275035945524,-1,0,-1,1,Professional
+546,15,Eco,29.719476586713895,1,1,1,1,Professional
+546,16,Full Buy,23.670159068496726,1,1,0,0,Professional
+546,17,Full Buy,17.838198547953656,1,0,-1,0,Professional
+546,18,Eco,16.549048920163557,0,0,-1,1,Professional
+546,19,Full Buy,29.411431887027373,0,0,-1,1,Professional
+547,1,Full Buy,29.68241379889945,1,0,-1,1,Professional
+547,2,Full Buy,35.58403190321025,0,0,-1,0,Professional
+547,3,Full Buy,27.72295853518338,1,0,-1,0,Professional
+547,4,Eco,15.643205299920542,-1,0,-1,0,Professional
+547,5,Eco,14.81682355595694,0,1,0,1,Professional
+547,6,Eco,22.176486419612203,-1,0,-1,1,Professional
+547,7,Full Buy,14.647544266721734,1,1,0,1,Professional
+547,8,Full Buy,23.98441068292858,0,0,-1,1,Professional
+547,9,Full Buy,23.625483059313645,1,0,-1,1,Professional
+547,10,Full Buy,8.48587424424047,-1,0,-1,0,Professional
+547,11,Full Buy,30.821127391579168,1,0,-1,1,Professional
+547,12,Force,3.330452372043567,1,0,-1,1,Professional
+547,13,Force,21.2656028965162,-1,0,-1,0,Professional
+547,14,Full Buy,29.547243878213006,-1,0,-1,1,Professional
+547,15,Full Buy,19.437988887285996,-1,0,-1,0,Professional
+547,16,Full Buy,18.56592137955673,-1,0,-1,1,Professional
+547,17,Force,22.386288912651942,1,0,-1,0,Professional
+547,18,Full Buy,24.896402859937005,-1,0,-1,1,Professional
+548,1,Full Buy,20.443779752670636,-1,0,-1,0,Professional
+548,2,Full Buy,54.7041505634799,-1,0,-1,1,Professional
+548,3,Full Buy,37.01391981621094,0,0,-1,1,Professional
+548,4,Force,44.56006884355928,0,0,-1,1,Professional
+548,5,Full Buy,22.12877981965431,0,0,-1,1,Professional
+548,6,Force,26.987736051581845,1,0,-1,0,Professional
+548,7,Full Buy,22.290647673209993,1,0,-1,1,Professional
+548,8,Full Buy,40.88964621074913,0,1,0,1,Professional
+548,9,Full Buy,31.446891292148596,1,1,0,0,Professional
+548,10,Force,17.96581079433159,1,0,-1,1,Professional
+548,11,Full Buy,45.55050099613129,-1,0,-1,1,Professional
+548,12,Full Buy,25.642303404922444,-1,0,-1,0,Professional
+548,13,Full Buy,47.498656652327355,0,1,1,1,Professional
+548,14,Full Buy,20.399819335866578,0,0,-1,0,Professional
+548,15,Full Buy,24.956601567857867,-1,0,-1,1,Professional
+548,16,Full Buy,30.326075249888305,1,0,-1,1,Professional
+548,17,Full Buy,39.1731707636702,-1,0,-1,1,Professional
+548,18,Force,29.00932546246951,1,0,-1,0,Professional
+549,1,Force,12.828674722956723,-1,0,-1,1,Professional
+549,2,Force,35.78987559103649,0,0,-1,1,Professional
+549,3,Full Buy,9.357789513646964,0,1,1,1,Professional
+549,4,Force,12.18434351714247,0,0,-1,0,Professional
+549,5,Full Buy,9.193428555817349,0,0,-1,0,Professional
+549,6,Force,21.505850450691018,0,0,-1,1,Professional
+549,7,Eco,26.27320905597896,-1,0,-1,0,Professional
+549,8,Full Buy,25.25833069213794,1,0,-1,0,Professional
+549,9,Full Buy,35.46530095120744,-1,0,-1,0,Professional
+549,10,Full Buy,40.43292032082569,1,0,-1,1,Professional
+549,11,Full Buy,25.89411322868673,1,0,-1,1,Professional
+549,12,Full Buy,20.576488852914363,-1,0,-1,1,Professional
+549,13,Full Buy,35.17949819362703,0,0,-1,1,Professional
+549,14,Force,16.92930313681159,1,0,-1,0,Professional
+549,15,Force,34.500792185145315,1,0,-1,0,Professional
+549,16,Full Buy,33.095988187521435,0,0,-1,0,Professional
+549,17,Full Buy,26.175084245987435,0,0,-1,1,Professional
+549,18,Full Buy,25.217066734457735,-1,0,-1,1,Professional
+549,19,Force,41.746185433049575,-1,0,-1,1,Professional
+549,20,Full Buy,21.456161798654144,1,1,1,0,Professional
+549,21,Force,33.38453382448837,-1,0,-1,0,Professional
+550,1,Full Buy,15.3189877027363,0,0,-1,0,Professional
+550,2,Force,26.28669386230853,1,1,1,1,Professional
+550,3,Full Buy,24.4327489898114,1,1,0,1,Professional
+550,4,Full Buy,24.476748842224012,0,0,-1,1,Professional
+550,5,Full Buy,28.10691300551067,1,1,0,0,Professional
+550,6,Full Buy,38.02394555515715,1,0,-1,1,Professional
+550,7,Force,19.428417679239782,1,0,-1,0,Professional
+550,8,Full Buy,39.957344881051014,-1,0,-1,1,Professional
+550,9,Full Buy,29.203904108852424,1,0,-1,0,Professional
+550,10,Full Buy,26.127604391161004,1,0,-1,0,Professional
+550,11,Force,36.93096333652522,1,0,-1,1,Professional
+550,12,Force,41.04965435919487,1,0,-1,0,Professional
+550,13,Full Buy,49.86721336290641,1,0,-1,1,Professional
+550,14,Full Buy,28.181370288912994,-1,1,0,1,Professional
+550,15,Full Buy,16.70905913377699,0,0,-1,0,Professional
+550,16,Full Buy,30.148126209398516,-1,0,-1,1,Professional
+550,17,Full Buy,28.716352044029804,1,0,-1,1,Professional
+550,18,Force,35.50030288393708,-1,1,1,1,Professional
+551,1,Full Buy,21.47404446397348,0,1,0,1,Professional
+551,2,Full Buy,13.142671740740933,0,0,-1,1,Professional
+551,3,Full Buy,13.53736390515925,1,0,-1,1,Professional
+551,4,Force,28.460731101948994,0,1,0,1,Professional
+551,5,Force,25.26630107180564,1,1,1,1,Professional
+551,6,Full Buy,18.71055690996908,-1,0,-1,0,Professional
+551,7,Force,28.692694588538572,1,0,-1,1,Professional
+551,8,Full Buy,19.89625283080838,-1,0,-1,0,Professional
+551,9,Full Buy,35.80542477571484,0,0,-1,1,Professional
+551,10,Full Buy,40.41648574248643,1,0,-1,1,Professional
+551,11,Full Buy,17.243440100022866,1,0,-1,0,Professional
+551,12,Full Buy,32.775013381002,-1,0,-1,1,Professional
+551,13,Eco,26.285371833783497,1,1,0,1,Professional
+551,14,Force,30.58024287703334,1,0,-1,1,Professional
+551,15,Full Buy,32.23704520224548,-1,0,-1,1,Professional
+551,16,Full Buy,33.47750892761499,1,0,-1,1,Professional
+551,17,Full Buy,19.100312399441833,0,0,-1,1,Professional
+551,18,Full Buy,30.60491349487701,1,0,-1,0,Professional
+552,1,Full Buy,17.401736967882623,-1,0,-1,0,Professional
+552,2,Force,30.575623617135804,1,0,-1,0,Professional
+552,3,Full Buy,21.033418485604066,1,0,-1,1,Professional
+552,4,Full Buy,47.7018390241529,1,0,-1,1,Professional
+552,5,Full Buy,38.014908136418214,0,0,-1,0,Professional
+552,6,Full Buy,36.695222781698156,0,1,1,1,Professional
+552,7,Full Buy,30.15071541654031,0,0,-1,1,Professional
+552,8,Full Buy,40.73801077239206,1,0,-1,1,Professional
+552,9,Full Buy,22.77244015382029,0,1,1,1,Professional
+552,10,Full Buy,23.622731349984566,-1,0,-1,1,Professional
+552,11,Force,21.12659281533512,1,1,0,1,Professional
+552,12,Full Buy,21.532815801529605,1,0,-1,1,Professional
+552,13,Full Buy,20.405456511277013,1,0,-1,1,Professional
+552,14,Force,33.48858962809434,-1,0,-1,1,Professional
+552,15,Full Buy,31.32574225483904,0,0,-1,1,Professional
+552,16,Force,24.171905893687807,1,1,1,0,Professional
+552,17,Force,30.772148809522783,0,0,-1,0,Professional
+552,18,Full Buy,10.8487512794213,1,1,1,1,Professional
+552,19,Force,43.004390352075056,-1,0,-1,0,Professional
+552,20,Full Buy,23.133578077057717,1,0,-1,0,Professional
+552,21,Force,38.95479217797019,-1,0,-1,1,Professional
+552,22,Force,19.68780942073714,1,0,-1,1,Professional
+552,23,Force,15.43376534474401,1,0,-1,1,Professional
+553,1,Eco,29.91970750701217,0,1,0,1,Professional
+553,2,Force,34.98815122815101,-1,0,-1,1,Professional
+553,3,Full Buy,33.20948634803103,-1,0,-1,0,Professional
+553,4,Eco,33.45609120243046,0,0,-1,1,Professional
+553,5,Full Buy,31.231385131215777,1,1,1,1,Professional
+553,6,Full Buy,35.98738189684927,0,1,0,0,Professional
+553,7,Full Buy,34.21112017494017,1,1,0,0,Professional
+553,8,Force,12.069545354065474,0,1,1,0,Professional
+553,9,Full Buy,38.24793660733336,1,0,-1,1,Professional
+553,10,Full Buy,26.32134240102959,1,0,-1,0,Professional
+553,11,Force,33.926078056654845,-1,1,1,1,Professional
+553,12,Full Buy,24.0706080971676,-1,0,-1,1,Professional
+553,13,Full Buy,41.09375359598171,1,0,-1,0,Professional
+553,14,Full Buy,20.09648056976983,-1,0,-1,0,Professional
+553,15,Full Buy,37.358633139660455,-1,0,-1,1,Professional
+553,16,Full Buy,42.7245072305414,1,1,0,0,Professional
+553,17,Full Buy,30.912478804758027,1,0,-1,0,Professional
+553,18,Full Buy,13.687775736089176,0,0,-1,0,Professional
+553,19,Force,25.945949763087242,1,0,-1,0,Professional
+554,1,Force,35.424932769094895,1,0,-1,0,Professional
+554,2,Full Buy,29.873832365605786,1,1,0,1,Professional
+554,3,Full Buy,15.514134327617025,0,0,-1,0,Professional
+554,4,Force,20.793320445444234,-1,0,-1,0,Professional
+554,5,Full Buy,46.912023391008056,1,0,-1,0,Professional
+554,6,Full Buy,29.77598297437634,1,0,-1,1,Professional
+554,7,Force,17.86672127374411,-1,1,0,0,Professional
+554,8,Full Buy,34.50454139031895,0,0,-1,1,Professional
+554,9,Full Buy,29.060562238595775,-1,0,-1,1,Professional
+554,10,Full Buy,19.009581059878485,-1,1,0,1,Professional
+554,11,Full Buy,21.782155408431745,0,0,-1,1,Professional
+554,12,Full Buy,20.19243447322764,1,1,1,1,Professional
+554,13,Eco,25.906799075918485,1,0,-1,0,Professional
+554,14,Force,30.81597617389771,1,0,-1,0,Professional
+554,15,Full Buy,18.02414784296729,0,0,-1,1,Professional
+554,16,Force,37.21293648440785,0,0,-1,1,Professional
+554,17,Full Buy,20.28131100177674,1,0,-1,1,Professional
+554,18,Full Buy,26.6973966051185,-1,0,-1,1,Professional
+554,19,Full Buy,34.17577713850422,-1,0,-1,1,Professional
+554,20,Full Buy,28.281446768428296,1,0,-1,1,Professional
+555,1,Force,18.855550971032137,1,0,-1,0,Professional
+555,2,Full Buy,23.7240840495861,0,0,-1,0,Professional
+555,3,Eco,25.52364915647018,0,0,-1,0,Professional
+555,4,Full Buy,15.609243081429337,1,1,1,1,Professional
+555,5,Force,26.602031011167153,-1,0,-1,1,Professional
+555,6,Force,47.17461301583382,0,0,-1,0,Professional
+555,7,Full Buy,31.587209211931807,-1,0,-1,1,Professional
+555,8,Full Buy,32.26183986165104,1,0,-1,1,Professional
+555,9,Full Buy,32.48458861114067,1,1,1,1,Professional
+555,10,Full Buy,33.64683297759221,0,0,-1,1,Professional
+555,11,Eco,39.489406005484604,-1,0,-1,0,Professional
+555,12,Full Buy,22.45868030865954,-1,0,-1,0,Professional
+555,13,Full Buy,31.47667074865797,-1,0,-1,0,Professional
+555,14,Eco,26.800876352032457,1,0,-1,0,Professional
+555,15,Full Buy,44.694957229928285,0,1,0,1,Professional
+555,16,Full Buy,35.691525360911065,0,0,-1,1,Professional
+555,17,Force,17.674513369391164,1,0,-1,0,Professional
+555,18,Full Buy,26.99556448515155,1,0,-1,0,Professional
+555,19,Force,33.24518546976173,0,0,-1,1,Professional
+555,20,Force,14.921918663200575,-1,0,-1,0,Professional
+556,1,Full Buy,8.411692623507886,-1,1,0,1,Professional
+556,2,Force,35.08456272214509,1,1,1,0,Professional
+556,3,Full Buy,20.17723129485509,-1,1,0,1,Professional
+556,4,Full Buy,25.434106522047525,-1,0,-1,1,Professional
+556,5,Full Buy,38.35959474708426,0,1,0,1,Professional
+556,6,Force,11.639137785039985,-1,1,1,1,Professional
+556,7,Full Buy,33.55304273275212,1,1,1,1,Professional
+556,8,Full Buy,38.756694606229225,0,0,-1,0,Professional
+556,9,Full Buy,32.87716450177056,-1,0,-1,1,Professional
+556,10,Full Buy,29.068667030032096,1,0,-1,0,Professional
+556,11,Full Buy,49.49693667769043,0,0,-1,1,Professional
+556,12,Full Buy,7.08153189053262,1,0,-1,1,Professional
+556,13,Eco,12.663860926619769,0,1,0,1,Professional
+556,14,Full Buy,18.20992823496934,-1,1,1,0,Professional
+556,15,Full Buy,33.366401964267006,-1,0,-1,1,Professional
+556,16,Full Buy,13.996338290117045,0,1,0,1,Professional
+556,17,Full Buy,38.95585957878093,1,1,1,1,Professional
+556,18,Full Buy,43.955652775664824,1,0,-1,0,Professional
+556,19,Full Buy,28.23509687451443,1,0,-1,0,Professional
+557,1,Eco,7.896971007577985,1,0,-1,1,Professional
+557,2,Full Buy,27.949742811662453,1,0,-1,0,Professional
+557,3,Force,14.375899158870201,-1,0,-1,1,Professional
+557,4,Full Buy,16.898902520880803,-1,0,-1,1,Professional
+557,5,Full Buy,15.710096678348313,1,0,-1,0,Professional
+557,6,Full Buy,31.8398140549105,1,0,-1,1,Professional
+557,7,Full Buy,48.64508642283211,1,1,1,1,Professional
+557,8,Full Buy,29.656830130559054,1,0,-1,1,Professional
+557,9,Full Buy,29.7885041347475,1,0,-1,1,Professional
+557,10,Full Buy,29.76485925681092,-1,0,-1,1,Professional
+557,11,Full Buy,48.9434487766658,0,1,1,1,Professional
+557,12,Full Buy,18.764869915262864,1,0,-1,0,Professional
+557,13,Full Buy,28.146131625085687,0,0,-1,0,Professional
+557,14,Force,40.51985176041817,1,0,-1,1,Professional
+557,15,Full Buy,38.209741742815346,-1,0,-1,0,Professional
+557,16,Force,40.103555538448575,1,1,1,0,Professional
+557,17,Full Buy,24.0062923436197,1,1,0,1,Professional
+557,18,Eco,2.0276617349728596,-1,0,-1,0,Professional
+557,19,Full Buy,20.069182557535854,-1,0,-1,0,Professional
+557,20,Full Buy,31.478818972743845,0,0,-1,1,Professional
+558,1,Full Buy,20.40541765198641,1,0,-1,0,Professional
+558,2,Full Buy,38.63410883621346,-1,0,-1,0,Professional
+558,3,Force,31.603497903811913,-1,0,-1,1,Professional
+558,4,Full Buy,12.191973928755736,0,0,-1,1,Professional
+558,5,Full Buy,11.260219103549467,0,0,-1,0,Professional
+558,6,Force,39.498890212931265,0,1,0,1,Professional
+558,7,Full Buy,28.021148357093963,-1,0,-1,0,Professional
+558,8,Full Buy,17.082211932016754,-1,0,-1,1,Professional
+558,9,Full Buy,24.027392450949186,0,0,-1,1,Professional
+558,10,Full Buy,19.980752384025145,1,0,-1,1,Professional
+558,11,Eco,28.434594985392703,1,0,-1,0,Professional
+558,12,Full Buy,34.11551518997131,0,0,-1,0,Professional
+558,13,Full Buy,42.04505112227187,-1,0,-1,1,Professional
+558,14,Full Buy,29.369321410899417,-1,1,1,1,Professional
+558,15,Full Buy,20.372958530089626,1,0,-1,1,Professional
+558,16,Force,33.11030919407685,1,1,1,1,Professional
+558,17,Full Buy,17.629829696037113,1,0,-1,0,Professional
+558,18,Full Buy,40.96288049798474,0,0,-1,1,Professional
+559,1,Full Buy,37.935478322391276,1,0,-1,0,Professional
+559,2,Force,26.53727458168496,1,0,-1,1,Professional
+559,3,Full Buy,35.05108646649507,-1,1,1,1,Professional
+559,4,Force,43.28959128111422,1,0,-1,0,Professional
+559,5,Full Buy,23.44760420093548,1,0,-1,1,Professional
+559,6,Full Buy,30.676462446034996,0,0,-1,1,Professional
+559,7,Full Buy,4.640464116703132,0,0,-1,1,Professional
+559,8,Full Buy,31.295989562742985,-1,0,-1,0,Professional
+559,9,Force,30.199841170488035,0,0,-1,0,Professional
+559,10,Full Buy,13.432688416129913,1,1,1,0,Professional
+559,11,Full Buy,32.63489810087181,0,0,-1,1,Professional
+559,12,Eco,11.91251564970409,1,1,0,1,Professional
+559,13,Full Buy,25.713899118220954,-1,0,-1,1,Professional
+559,14,Full Buy,24.668556115067464,1,0,-1,1,Professional
+559,15,Full Buy,20.674017155129143,0,0,-1,1,Professional
+559,16,Full Buy,30.182766042176155,-1,1,0,1,Professional
+559,17,Full Buy,21.776992288348687,-1,0,-1,0,Professional
+559,18,Full Buy,26.497916443202186,1,0,-1,0,Professional
+559,19,Full Buy,18.43678487273127,1,0,-1,1,Professional
+559,20,Eco,25.2467329102665,-1,0,-1,1,Professional
+559,21,Full Buy,20.3755143758846,-1,0,-1,0,Professional
+559,22,Force,48.71949300178173,0,1,0,1,Professional
+560,1,Full Buy,24.29940714397897,1,0,-1,1,Professional
+560,2,Full Buy,17.804931631131304,1,0,-1,1,Professional
+560,3,Full Buy,39.25354764016201,0,0,-1,1,Professional
+560,4,Full Buy,44.25892621265976,1,0,-1,1,Professional
+560,5,Full Buy,35.46471388831583,-1,0,-1,1,Professional
+560,6,Full Buy,19.210422555343037,-1,0,-1,1,Professional
+560,7,Full Buy,15.492474056043221,-1,0,-1,0,Professional
+560,8,Full Buy,33.083769771044146,1,0,-1,0,Professional
+560,9,Full Buy,13.73734276283612,1,0,-1,1,Professional
+560,10,Full Buy,56.06600355844589,0,0,-1,0,Professional
+560,11,Force,28.84527092964307,0,0,-1,1,Professional
+560,12,Force,29.79358986052648,1,0,-1,1,Professional
+560,13,Force,30.429179389245864,1,0,-1,0,Professional
+560,14,Full Buy,24.01813486172502,1,0,-1,0,Professional
+560,15,Full Buy,25.669100646090985,1,0,-1,0,Professional
+560,16,Full Buy,3.988654645248893,0,0,-1,0,Professional
+560,17,Full Buy,23.050548469074055,1,1,1,1,Professional
+560,18,Full Buy,40.44103570305688,1,0,-1,1,Professional
+560,19,Force,28.91770175766528,1,0,-1,1,Professional
+560,20,Full Buy,26.372840984996095,-1,0,-1,1,Professional
+560,21,Full Buy,23.75809495127858,1,0,-1,0,Professional
+561,1,Force,41.65515132466778,0,0,-1,1,Professional
+561,2,Full Buy,29.92670635696931,-1,0,-1,1,Professional
+561,3,Full Buy,49.39678540507807,1,0,-1,0,Professional
+561,4,Eco,14.91653222889688,1,0,-1,0,Professional
+561,5,Full Buy,24.6878240573805,0,0,-1,0,Professional
+561,6,Full Buy,21.26260602889645,0,0,-1,0,Professional
+561,7,Full Buy,8.919996823556769,-1,1,1,1,Professional
+561,8,Full Buy,31.423565324480776,1,0,-1,1,Professional
+561,9,Full Buy,20.745669312744106,0,0,-1,1,Professional
+561,10,Full Buy,20.863670451565497,1,0,-1,0,Professional
+561,11,Full Buy,17.109427859774136,-1,1,1,1,Professional
+561,12,Force,26.349315358155884,-1,0,-1,0,Professional
+561,13,Eco,20.35915991567743,1,0,-1,0,Professional
+561,14,Force,37.216491790195796,-1,1,1,1,Professional
+561,15,Full Buy,32.94781666133746,0,0,-1,1,Professional
+561,16,Full Buy,31.624948660396974,1,0,-1,0,Professional
+561,17,Force,34.83711935343084,1,0,-1,1,Professional
+561,18,Full Buy,16.381318902166942,1,0,-1,0,Professional
+561,19,Force,31.48215888813101,0,1,1,1,Professional
+561,20,Eco,33.457155081057905,1,0,-1,0,Professional
+561,21,Eco,29.13516507163652,0,0,-1,0,Professional
+562,1,Eco,32.39245604630946,-1,1,1,0,Professional
+562,2,Full Buy,42.12908416109303,1,0,-1,1,Professional
+562,3,Full Buy,31.910354516107986,1,1,0,0,Professional
+562,4,Force,20.451223757822902,1,0,-1,1,Professional
+562,5,Full Buy,19.623948083903965,0,0,-1,1,Professional
+562,6,Full Buy,20.316483588498187,-1,0,-1,1,Professional
+562,7,Force,40.04343756734834,1,0,-1,1,Professional
+562,8,Full Buy,32.01441512303147,1,0,-1,0,Professional
+562,9,Full Buy,26.564221023716147,1,0,-1,0,Professional
+562,10,Full Buy,19.082753503189668,1,0,-1,0,Professional
+562,11,Full Buy,28.962010324800197,0,0,-1,0,Professional
+562,12,Full Buy,14.453457993970238,1,1,1,1,Professional
+562,13,Force,22.899255898482444,-1,0,-1,1,Professional
+562,14,Full Buy,17.565687764269878,1,1,1,1,Professional
+562,15,Full Buy,20.04149157403814,0,1,0,1,Professional
+562,16,Full Buy,52.10845902465616,0,0,-1,0,Professional
+562,17,Full Buy,14.475002213191686,1,0,-1,1,Professional
+562,18,Full Buy,30.67993847722829,1,0,-1,1,Professional
+562,19,Full Buy,12.888947803619303,0,0,-1,1,Professional
+563,1,Full Buy,21.418498079077843,0,1,0,1,Professional
+563,2,Full Buy,9.9109228626291,0,0,-1,0,Professional
+563,3,Full Buy,30.88606803961937,1,0,-1,1,Professional
+563,4,Full Buy,24.504425059559487,0,0,-1,1,Professional
+563,5,Force,28.734630410181452,-1,1,1,1,Professional
+563,6,Full Buy,36.08894122824621,0,0,-1,1,Professional
+563,7,Force,18.925026337656206,0,0,-1,0,Professional
+563,8,Eco,43.599436813771526,1,0,-1,1,Professional
+563,9,Full Buy,32.118132400226045,0,0,-1,0,Professional
+563,10,Force,35.701019703458556,0,0,-1,0,Professional
+563,11,Full Buy,25.70585919169541,-1,0,-1,0,Professional
+563,12,Full Buy,23.485844229924652,-1,0,-1,0,Professional
+563,13,Full Buy,42.17683845195035,1,0,-1,1,Professional
+563,14,Full Buy,13.669429348071567,0,0,-1,0,Professional
+563,15,Full Buy,52.71600672714575,0,0,-1,1,Professional
+563,16,Eco,51.409598581673094,1,0,-1,0,Professional
+563,17,Full Buy,9.818605581897724,0,0,-1,0,Professional
+563,18,Full Buy,19.5162558443701,0,0,-1,0,Professional
+563,19,Force,31.448028745956332,1,0,-1,0,Professional
+563,20,Full Buy,25.49261959177406,-1,0,-1,0,Professional
+564,1,Full Buy,33.11751390906029,-1,0,-1,1,Professional
+564,2,Full Buy,26.96737773881295,-1,0,-1,1,Professional
+564,3,Full Buy,37.936919762251385,0,0,-1,1,Professional
+564,4,Full Buy,18.678272970270505,1,0,-1,1,Professional
+564,5,Full Buy,37.492304551446786,-1,0,-1,0,Professional
+564,6,Full Buy,23.305458150900765,-1,0,-1,1,Professional
+564,7,Full Buy,28.14545191487623,1,0,-1,1,Professional
+564,8,Eco,27.65143618249791,-1,0,-1,0,Professional
+564,9,Full Buy,26.86343368700335,0,1,1,1,Professional
+564,10,Full Buy,20.757021778650113,1,1,1,1,Professional
+564,11,Force,38.900368744516214,-1,0,-1,0,Professional
+564,12,Full Buy,38.826153536385654,0,0,-1,1,Professional
+564,13,Eco,12.272758708841025,0,1,0,0,Professional
+564,14,Full Buy,36.36470506409441,-1,0,-1,1,Professional
+564,15,Full Buy,21.460340609887865,-1,0,-1,0,Professional
+564,16,Full Buy,39.261382624065874,-1,0,-1,0,Professional
+564,17,Full Buy,43.78634380962244,-1,0,-1,1,Professional
+564,18,Full Buy,15.584938365629917,-1,0,-1,1,Professional
+564,19,Full Buy,28.093924369381526,-1,0,-1,1,Professional
+564,20,Full Buy,47.84883310872719,1,0,-1,1,Professional
+564,21,Eco,13.330499321739826,1,0,-1,0,Professional
+565,1,Full Buy,31.30300042072772,0,1,0,0,Professional
+565,2,Full Buy,30.073986773926475,-1,1,1,1,Professional
+565,3,Full Buy,41.35879351581034,1,1,1,1,Professional
+565,4,Full Buy,20.926758438471577,0,0,-1,0,Professional
+565,5,Full Buy,33.1687648997673,1,0,-1,1,Professional
+565,6,Force,29.96484482072843,0,0,-1,1,Professional
+565,7,Full Buy,13.497721393997221,1,0,-1,1,Professional
+565,8,Full Buy,41.986210250703266,1,0,-1,0,Professional
+565,9,Full Buy,31.18747912998647,1,1,1,1,Professional
+565,10,Eco,30.286587431797734,1,1,1,1,Professional
+565,11,Full Buy,41.93484266937277,1,0,-1,1,Professional
+565,12,Force,37.12531344102034,0,0,-1,0,Professional
+565,13,Full Buy,29.643027013810148,0,0,-1,0,Professional
+565,14,Force,34.719147618522264,1,0,-1,1,Professional
+565,15,Full Buy,17.32231405122113,1,1,0,1,Professional
+565,16,Full Buy,41.1026592987596,-1,0,-1,1,Professional
+565,17,Full Buy,27.52053233684288,-1,0,-1,1,Professional
+565,18,Full Buy,36.01324992213426,-1,0,-1,0,Professional
+566,1,Full Buy,21.399859479179444,-1,0,-1,1,Professional
+566,2,Full Buy,20.674519050875926,-1,0,-1,0,Professional
+566,3,Full Buy,24.686704952670976,-1,0,-1,1,Professional
+566,4,Full Buy,9.587055948635378,-1,0,-1,1,Professional
+566,5,Full Buy,16.509873899373428,-1,1,1,0,Professional
+566,6,Full Buy,25.904988447903527,1,0,-1,1,Professional
+566,7,Full Buy,41.77492030116326,1,1,1,1,Professional
+566,8,Eco,25.086228960747288,-1,0,-1,0,Professional
+566,9,Full Buy,52.92459615745889,0,1,0,1,Professional
+566,10,Full Buy,29.01773923648307,0,0,-1,1,Professional
+566,11,Full Buy,24.60163763005172,1,0,-1,1,Professional
+566,12,Force,17.624615329075063,1,0,-1,1,Professional
+566,13,Full Buy,28.42167332209532,1,0,-1,1,Professional
+566,14,Full Buy,38.211799471165826,-1,1,1,1,Professional
+566,15,Full Buy,39.19444924635231,1,0,-1,1,Professional
+566,16,Full Buy,17.87688117636592,1,0,-1,1,Professional
+566,17,Full Buy,24.861831470321736,-1,0,-1,1,Professional
+566,18,Full Buy,0.40915801438892174,0,0,-1,0,Professional
+566,19,Full Buy,52.27890202618532,1,0,-1,0,Professional
+566,20,Eco,11.100828223875013,-1,0,-1,0,Professional
+566,21,Eco,22.529794536968417,1,0,-1,0,Professional
+566,22,Full Buy,15.064568072280617,-1,0,-1,1,Professional
+567,1,Full Buy,32.433837101662476,1,0,-1,1,Professional
+567,2,Eco,5.293357763079825,1,1,1,0,Professional
+567,3,Full Buy,12.887418897958591,0,1,0,0,Professional
+567,4,Force,35.46381781155657,-1,0,-1,0,Professional
+567,5,Eco,33.94577761234902,1,0,-1,0,Professional
+567,6,Force,13.301419085909693,0,0,-1,1,Professional
+567,7,Full Buy,30.59075207133069,0,0,-1,1,Professional
+567,8,Full Buy,20.1464274711509,-1,0,-1,1,Professional
+567,9,Full Buy,10.612201168972959,0,1,0,0,Professional
+567,10,Full Buy,35.27042665070094,1,0,-1,0,Professional
+567,11,Full Buy,17.068682231856997,-1,0,-1,0,Professional
+567,12,Full Buy,23.707753039898755,0,1,1,0,Professional
+567,13,Full Buy,26.512618441051767,0,1,0,0,Professional
+567,14,Full Buy,30.327422116847853,0,0,-1,0,Professional
+567,15,Full Buy,11.154056991169952,-1,0,-1,1,Professional
+567,16,Eco,19.15573195311824,0,0,-1,0,Professional
+567,17,Full Buy,22.197650029741702,1,0,-1,1,Professional
+567,18,Eco,31.632252619044213,-1,1,1,1,Professional
+568,1,Full Buy,0.0,1,0,-1,0,Professional
+568,2,Full Buy,22.485576751281894,1,0,-1,1,Professional
+568,3,Eco,17.992205816529435,1,0,-1,0,Professional
+568,4,Force,26.593612858172456,1,1,1,0,Professional
+568,5,Full Buy,41.75567033277504,1,0,-1,1,Professional
+568,6,Full Buy,27.494484337050356,-1,0,-1,1,Professional
+568,7,Eco,36.52853031899172,-1,0,-1,0,Professional
+568,8,Full Buy,24.297673812839488,1,0,-1,1,Professional
+568,9,Force,30.766315499402456,1,0,-1,0,Professional
+568,10,Full Buy,28.9263386822345,1,0,-1,0,Professional
+568,11,Full Buy,24.804829025663015,1,1,1,1,Professional
+568,12,Force,31.521037704823243,0,0,-1,0,Professional
+568,13,Force,33.895504850637714,-1,0,-1,0,Professional
+568,14,Full Buy,0.0,-1,0,-1,1,Professional
+568,15,Eco,24.74766741767654,1,0,-1,0,Professional
+568,16,Full Buy,37.97958784230222,-1,0,-1,1,Professional
+568,17,Full Buy,34.82545090301606,-1,1,1,1,Professional
+568,18,Full Buy,21.832387825547013,-1,0,-1,1,Professional
+569,1,Full Buy,35.30398497795319,-1,1,1,1,Professional
+569,2,Force,31.639926794295768,-1,0,-1,0,Professional
+569,3,Full Buy,10.371144722564715,1,0,-1,0,Professional
+569,4,Force,32.93462214351466,-1,0,-1,0,Professional
+569,5,Full Buy,20.98184331651915,1,0,-1,1,Professional
+569,6,Full Buy,51.521496209055854,-1,0,-1,0,Professional
+569,7,Full Buy,9.738589885542265,-1,0,-1,0,Professional
+569,8,Full Buy,22.72206342691993,-1,0,-1,0,Professional
+569,9,Force,32.40541706528963,1,0,-1,1,Professional
+569,10,Force,25.076364358238294,1,0,-1,1,Professional
+569,11,Force,16.970390778176952,1,0,-1,0,Professional
+569,12,Force,20.404958859931895,0,0,-1,0,Professional
+569,13,Eco,15.963809479214222,0,1,0,1,Professional
+569,14,Full Buy,12.553723593310565,0,0,-1,0,Professional
+569,15,Full Buy,26.350113335936868,-1,0,-1,0,Professional
+569,16,Full Buy,24.63605524887496,-1,0,-1,1,Professional
+569,17,Full Buy,25.721116123425485,1,1,1,1,Professional
+569,18,Force,29.408707643287276,0,0,-1,0,Professional
+569,19,Force,16.720191410610283,0,0,-1,0,Professional
+569,20,Full Buy,16.115267555185923,0,0,-1,1,Professional
+569,21,Full Buy,25.829276140744415,0,0,-1,1,Professional
+569,22,Force,40.35880775551982,0,0,-1,1,Professional
+570,1,Force,24.842826433249808,0,1,1,1,Professional
+570,2,Full Buy,37.634562221123474,-1,0,-1,1,Professional
+570,3,Full Buy,12.232608886474933,-1,0,-1,0,Professional
+570,4,Eco,10.652871796898303,1,0,-1,1,Professional
+570,5,Full Buy,34.67203128196407,0,0,-1,1,Professional
+570,6,Full Buy,7.797280884221017,0,0,-1,0,Professional
+570,7,Full Buy,19.846136620768558,-1,0,-1,0,Professional
+570,8,Eco,15.99227040164938,1,1,0,0,Professional
+570,9,Force,5.7924565309600595,1,0,-1,1,Professional
+570,10,Full Buy,10.116509030601549,1,0,-1,1,Professional
+570,11,Full Buy,30.066078117529877,-1,0,-1,0,Professional
+570,12,Full Buy,30.53277185675573,-1,0,-1,1,Professional
+570,13,Full Buy,27.331642466477525,0,1,1,1,Professional
+570,14,Eco,36.23566739006779,1,0,-1,0,Professional
+570,15,Eco,26.223943702025192,-1,0,-1,1,Professional
+570,16,Eco,25.147180078804723,1,0,-1,0,Professional
+570,17,Force,34.41573651754247,-1,0,-1,1,Professional
+570,18,Full Buy,24.054489649220894,-1,0,-1,0,Professional
+571,1,Full Buy,20.289913056108638,1,0,-1,0,Professional
+571,2,Full Buy,30.210861854755137,1,0,-1,0,Professional
+571,3,Full Buy,33.926098952280185,-1,0,-1,0,Professional
+571,4,Full Buy,36.30067017153574,1,1,0,0,Professional
+571,5,Full Buy,24.75508736398371,1,0,-1,1,Professional
+571,6,Force,27.67626150750718,1,0,-1,0,Professional
+571,7,Full Buy,15.233254941296938,1,0,-1,0,Professional
+571,8,Full Buy,46.15640311478505,1,0,-1,1,Professional
+571,9,Force,36.215498760483925,-1,0,-1,1,Professional
+571,10,Full Buy,17.429218184943053,0,0,-1,1,Professional
+571,11,Full Buy,37.24753832998187,1,0,-1,1,Professional
+571,12,Full Buy,30.72110516249778,0,1,1,1,Professional
+571,13,Full Buy,9.245848929197983,0,0,-1,1,Professional
+571,14,Full Buy,44.712345778023305,0,0,-1,1,Professional
+571,15,Force,21.72480991564509,-1,1,1,0,Professional
+571,16,Full Buy,13.432810482583292,0,1,1,1,Professional
+571,17,Full Buy,0.12768170331696638,-1,0,-1,0,Professional
+571,18,Force,25.449675531347204,-1,0,-1,1,Professional
+571,19,Full Buy,20.668222545045705,-1,1,0,1,Professional
+572,1,Eco,43.63444753792614,-1,1,1,1,Professional
+572,2,Eco,36.662217594119646,1,1,0,0,Professional
+572,3,Full Buy,32.67671020626537,1,0,-1,1,Professional
+572,4,Full Buy,9.346466100663985,0,1,0,0,Professional
+572,5,Full Buy,24.50663634750281,0,0,-1,0,Professional
+572,6,Full Buy,38.147249586399326,-1,0,-1,0,Professional
+572,7,Force,28.02504859746654,0,1,1,1,Professional
+572,8,Full Buy,43.38843862231715,1,0,-1,1,Professional
+572,9,Force,28.74735458690683,-1,1,1,1,Professional
+572,10,Full Buy,29.8581316383637,0,1,0,0,Professional
+572,11,Full Buy,27.476317770495243,0,0,-1,0,Professional
+572,12,Force,26.017577890190275,0,0,-1,1,Professional
+572,13,Full Buy,43.60624734092478,-1,0,-1,0,Professional
+572,14,Full Buy,31.496823612109406,1,0,-1,1,Professional
+572,15,Full Buy,30.82440275143177,-1,0,-1,1,Professional
+572,16,Full Buy,30.39154856505981,0,1,0,0,Professional
+572,17,Full Buy,24.468485447960514,0,0,-1,1,Professional
+572,18,Full Buy,22.138797351493743,0,0,-1,0,Professional
+572,19,Force,21.713038178251487,-1,0,-1,0,Professional
+572,20,Eco,36.95546317672464,1,0,-1,0,Professional
+572,21,Full Buy,15.776955813280876,1,1,1,0,Professional
+572,22,Eco,39.805680023293114,-1,0,-1,1,Professional
+573,1,Eco,19.300190307506668,0,0,-1,0,Professional
+573,2,Full Buy,31.49540501285607,-1,0,-1,0,Professional
+573,3,Full Buy,42.29350564658407,1,1,1,1,Professional
+573,4,Full Buy,16.75522196436373,1,0,-1,1,Professional
+573,5,Full Buy,32.01092239652858,1,0,-1,1,Professional
+573,6,Full Buy,40.91352565075208,0,0,-1,1,Professional
+573,7,Force,15.069718745374253,1,0,-1,1,Professional
+573,8,Force,24.33390253609631,0,1,0,0,Professional
+573,9,Full Buy,40.51679638938107,0,0,-1,0,Professional
+573,10,Full Buy,45.54140519397333,0,0,-1,1,Professional
+573,11,Full Buy,35.17803994833397,-1,0,-1,1,Professional
+573,12,Force,32.107033346023556,1,0,-1,0,Professional
+573,13,Full Buy,24.52827952630877,1,0,-1,0,Professional
+573,14,Full Buy,9.428820351698675,0,0,-1,0,Professional
+573,15,Full Buy,32.97288663984564,-1,1,1,1,Professional
+573,16,Full Buy,24.365880583657244,-1,0,-1,0,Professional
+573,17,Full Buy,19.899837640041046,0,1,0,1,Professional
+573,18,Full Buy,40.006263212407816,0,0,-1,1,Professional
+573,19,Full Buy,20.218987182683772,1,0,-1,0,Professional
+573,20,Full Buy,9.354902647843744,1,0,-1,0,Professional
+573,21,Full Buy,35.83109262530364,0,1,1,1,Professional
+573,22,Full Buy,21.35672406811934,0,0,-1,0,Professional
+573,23,Full Buy,18.6873020049151,0,1,0,1,Professional
+574,1,Full Buy,13.727568080036122,1,0,-1,1,Professional
+574,2,Full Buy,27.386503069574513,1,0,-1,1,Professional
+574,3,Full Buy,38.73749632339123,1,0,-1,1,Professional
+574,4,Full Buy,24.489314816511968,0,1,1,1,Professional
+574,5,Full Buy,22.483182213298665,-1,0,-1,0,Professional
+574,6,Full Buy,24.442119447640223,-1,0,-1,1,Professional
+574,7,Full Buy,30.23574415827426,-1,0,-1,1,Professional
+574,8,Full Buy,49.93228175837683,0,0,-1,0,Professional
+574,9,Full Buy,41.04093256350255,1,0,-1,1,Professional
+574,10,Eco,24.42070001442739,0,0,-1,0,Professional
+574,11,Full Buy,35.34965935434246,-1,0,-1,1,Professional
+574,12,Full Buy,29.778505993489023,0,1,0,0,Professional
+574,13,Full Buy,34.482981065752654,1,0,-1,1,Professional
+574,14,Full Buy,33.9560523601417,-1,1,0,1,Professional
+574,15,Full Buy,26.119086821757726,-1,0,-1,1,Professional
+574,16,Force,33.4574707718174,1,0,-1,0,Professional
+574,17,Full Buy,11.179463226153526,-1,1,0,1,Professional
+574,18,Full Buy,28.638918651224024,-1,0,-1,0,Professional
+574,19,Full Buy,11.751859063206016,0,0,-1,1,Professional
+574,20,Full Buy,26.82105969777692,1,0,-1,0,Professional
+574,21,Force,18.832655150031428,0,0,-1,1,Professional
+574,22,Full Buy,44.75394967767353,1,0,-1,1,Professional
+574,23,Eco,30.918384828379896,-1,0,-1,0,Professional
+575,1,Full Buy,30.556690336173816,1,0,-1,0,Professional
+575,2,Full Buy,37.8132165736614,-1,0,-1,0,Professional
+575,3,Full Buy,27.421966044303073,1,1,1,0,Professional
+575,4,Full Buy,17.63386960141419,1,0,-1,0,Professional
+575,5,Full Buy,31.12972512147379,0,0,-1,1,Professional
+575,6,Force,22.53675716695561,-1,1,0,0,Professional
+575,7,Full Buy,27.811502718389836,-1,0,-1,1,Professional
+575,8,Full Buy,33.20579997498199,1,0,-1,0,Professional
+575,9,Force,37.863301140274075,-1,0,-1,0,Professional
+575,10,Full Buy,21.848216762440543,-1,0,-1,0,Professional
+575,11,Full Buy,29.311560615876907,-1,0,-1,0,Professional
+575,12,Eco,35.71654576849792,1,0,-1,1,Professional
+575,13,Full Buy,33.28394732399939,0,1,1,1,Professional
+575,14,Full Buy,36.84969831660258,-1,0,-1,0,Professional
+575,15,Full Buy,16.92718145581251,-1,1,0,1,Professional
+575,16,Full Buy,27.845440543752744,1,0,-1,0,Professional
+575,17,Force,32.96600201382448,-1,0,-1,1,Professional
+575,18,Full Buy,21.069606588547103,0,0,-1,1,Professional
+576,1,Full Buy,52.58757373129124,-1,1,0,1,Professional
+576,2,Full Buy,26.041868979391072,0,0,-1,1,Professional
+576,3,Force,24.70812543604935,1,0,-1,0,Professional
+576,4,Force,39.983949038695776,-1,0,-1,0,Professional
+576,5,Full Buy,37.86365357570844,0,0,-1,1,Professional
+576,6,Full Buy,34.343839191020635,-1,0,-1,1,Professional
+576,7,Full Buy,18.949065851648385,-1,0,-1,0,Professional
+576,8,Full Buy,28.395971471283033,0,0,-1,1,Professional
+576,9,Force,31.542786812592723,1,0,-1,1,Professional
+576,10,Full Buy,26.864143718649004,1,0,-1,0,Professional
+576,11,Full Buy,13.66538793695032,0,0,-1,0,Professional
+576,12,Full Buy,33.10311012516692,1,0,-1,0,Professional
+576,13,Full Buy,24.93175428409909,0,1,0,0,Professional
+576,14,Eco,19.869933992591626,1,0,-1,1,Professional
+576,15,Full Buy,30.022962962303914,-1,0,-1,1,Professional
+576,16,Full Buy,18.059321123333792,0,1,1,1,Professional
+576,17,Full Buy,16.791355400735917,1,0,-1,1,Professional
+576,18,Full Buy,30.60649332087427,-1,0,-1,1,Professional
+576,19,Force,23.53290416472998,1,0,-1,1,Professional
+576,20,Full Buy,44.1451403443461,0,0,-1,0,Professional
+576,21,Full Buy,18.862660431093992,0,0,-1,0,Professional
+576,22,Full Buy,35.99975369779622,0,0,-1,1,Professional
+577,1,Force,31.85790881258003,0,0,-1,1,Professional
+577,2,Full Buy,25.354803077423327,1,0,-1,1,Professional
+577,3,Full Buy,16.563428169321,-1,0,-1,1,Professional
+577,4,Full Buy,40.298608357752656,-1,1,0,0,Professional
+577,5,Full Buy,35.127262255582195,0,1,1,1,Professional
+577,6,Full Buy,42.535860295524515,1,0,-1,1,Professional
+577,7,Full Buy,28.574253581608023,-1,1,1,1,Professional
+577,8,Force,13.567681730947363,-1,0,-1,0,Professional
+577,9,Full Buy,25.79804551934603,0,0,-1,0,Professional
+577,10,Full Buy,14.630853038937838,-1,1,1,0,Professional
+577,11,Full Buy,16.968604503687803,0,0,-1,1,Professional
+577,12,Full Buy,26.93001764967101,1,0,-1,0,Professional
+577,13,Force,32.90845247957901,0,0,-1,1,Professional
+577,14,Full Buy,28.834593068052943,0,0,-1,0,Professional
+577,15,Eco,15.55074066466619,1,0,-1,1,Professional
+577,16,Full Buy,24.181387043122793,0,1,0,1,Professional
+577,17,Full Buy,20.23870425566312,1,0,-1,0,Professional
+577,18,Full Buy,29.243025449367092,0,0,-1,1,Professional
+577,19,Full Buy,22.012540951524283,-1,1,1,1,Professional
+577,20,Full Buy,22.446628607747506,1,0,-1,0,Professional
+577,21,Full Buy,36.56936994055064,-1,0,-1,1,Professional
+577,22,Eco,46.250517262429376,1,0,-1,1,Professional
+577,23,Full Buy,26.118123582232634,1,0,-1,1,Professional
+578,1,Full Buy,26.76439348723239,-1,0,-1,0,Professional
+578,2,Full Buy,34.83904203779967,0,0,-1,1,Professional
+578,3,Full Buy,40.90137615575021,-1,1,1,1,Professional
+578,4,Eco,36.15876522794664,1,1,0,1,Professional
+578,5,Eco,26.64179715955881,1,0,-1,1,Professional
+578,6,Full Buy,27.10098072938463,1,0,-1,1,Professional
+578,7,Full Buy,42.0461249746708,1,0,-1,1,Professional
+578,8,Full Buy,49.57690021084257,-1,0,-1,1,Professional
+578,9,Eco,36.879638493801,-1,0,-1,1,Professional
+578,10,Full Buy,45.326328383985654,1,0,-1,0,Professional
+578,11,Force,33.60129038289822,-1,0,-1,0,Professional
+578,12,Force,25.06607707927975,1,0,-1,1,Professional
+578,13,Full Buy,34.37130163165459,-1,1,0,1,Professional
+578,14,Full Buy,26.039194391814817,-1,1,0,0,Professional
+578,15,Eco,27.223921588228578,1,0,-1,1,Professional
+578,16,Full Buy,24.10518477696574,1,1,0,0,Professional
+578,17,Full Buy,42.345098760363015,1,0,-1,1,Professional
+578,18,Eco,31.706726383929222,1,0,-1,0,Professional
+578,19,Eco,26.33874021872306,1,1,1,1,Professional
+578,20,Full Buy,20.59970058456835,-1,0,-1,0,Professional
+578,21,Eco,33.02795862973666,0,0,-1,1,Professional
+579,1,Force,26.696413377519406,1,0,-1,0,Professional
+579,2,Full Buy,14.939467064082198,-1,0,-1,1,Professional
+579,3,Force,26.120505281731,0,0,-1,1,Professional
+579,4,Full Buy,42.23260573289677,1,0,-1,0,Professional
+579,5,Full Buy,36.18646966748954,-1,0,-1,1,Professional
+579,6,Full Buy,18.847284050586758,1,0,-1,0,Professional
+579,7,Eco,42.85083963844872,0,1,1,0,Professional
+579,8,Full Buy,13.994964547684845,0,0,-1,0,Professional
+579,9,Full Buy,16.696509541562655,-1,0,-1,0,Professional
+579,10,Force,36.58621256966664,-1,0,-1,0,Professional
+579,11,Full Buy,21.604870993991597,1,1,1,0,Professional
+579,12,Full Buy,3.469178646999218,0,0,-1,1,Professional
+579,13,Force,22.14261921403833,1,0,-1,0,Professional
+579,14,Force,39.39516059056422,0,0,-1,1,Professional
+579,15,Eco,34.842302503281644,0,0,-1,0,Professional
+579,16,Full Buy,33.98274064391358,-1,1,0,1,Professional
+579,17,Full Buy,45.93913523593177,0,0,-1,1,Professional
+579,18,Eco,23.917188330354552,0,0,-1,1,Professional
+579,19,Force,38.0346375283277,-1,0,-1,1,Professional
+580,1,Eco,33.79129523343375,-1,0,-1,1,Professional
+580,2,Full Buy,7.962211347094062,1,0,-1,1,Professional
+580,3,Full Buy,15.488758725453451,0,0,-1,0,Professional
+580,4,Full Buy,21.31879361486502,1,0,-1,1,Professional
+580,5,Full Buy,13.87263901751421,-1,0,-1,0,Professional
+580,6,Full Buy,25.181659625045103,1,1,1,1,Professional
+580,7,Full Buy,34.954334043056264,1,0,-1,1,Professional
+580,8,Full Buy,42.35686818770467,0,0,-1,0,Professional
+580,9,Full Buy,37.34000052095983,1,0,-1,1,Professional
+580,10,Full Buy,22.47898577390223,-1,0,-1,1,Professional
+580,11,Full Buy,55.68924438921285,1,0,-1,1,Professional
+580,12,Full Buy,14.727405360476684,-1,0,-1,1,Professional
+580,13,Eco,40.40261263569141,-1,0,-1,0,Professional
+580,14,Force,28.581275406811134,0,1,0,0,Professional
+580,15,Full Buy,32.20342192889536,0,0,-1,1,Professional
+580,16,Force,39.59074844183576,0,0,-1,0,Professional
+580,17,Full Buy,13.382912625396184,-1,0,-1,1,Professional
+580,18,Full Buy,26.62554682607872,1,0,-1,0,Professional
+580,19,Force,23.342281502458775,1,0,-1,0,Professional
+580,20,Full Buy,52.70542346652048,1,1,0,1,Professional
+580,21,Full Buy,26.5713585943216,0,0,-1,1,Professional
+581,1,Full Buy,26.892239245147387,0,0,-1,1,Professional
+581,2,Full Buy,16.883472084283046,1,1,1,1,Professional
+581,3,Force,19.052724429664913,-1,0,-1,1,Professional
+581,4,Force,43.176967939888875,0,0,-1,1,Professional
+581,5,Full Buy,37.33507409396607,0,0,-1,0,Professional
+581,6,Full Buy,18.265034868524413,1,0,-1,0,Professional
+581,7,Full Buy,24.706747449619456,-1,0,-1,1,Professional
+581,8,Force,37.52066525871952,0,0,-1,0,Professional
+581,9,Force,26.49650193445148,-1,0,-1,0,Professional
+581,10,Full Buy,51.42785138945543,1,0,-1,1,Professional
+581,11,Full Buy,34.70362729235863,-1,1,1,1,Professional
+581,12,Full Buy,32.61396866196192,1,0,-1,1,Professional
+581,13,Eco,27.55400226808742,1,0,-1,1,Professional
+581,14,Force,35.653988700804035,-1,0,-1,0,Professional
+581,15,Full Buy,25.927576250034207,1,0,-1,1,Professional
+581,16,Full Buy,41.90397037093862,0,0,-1,1,Professional
+581,17,Full Buy,24.17657213544322,1,0,-1,1,Professional
+581,18,Full Buy,22.776871773887507,1,0,-1,0,Professional
+581,19,Full Buy,36.56506535786869,0,0,-1,0,Professional
+581,20,Full Buy,36.57937637826185,1,0,-1,0,Professional
+581,21,Full Buy,42.781886215307914,1,0,-1,1,Professional
+582,1,Full Buy,29.67738238610611,1,0,-1,1,Professional
+582,2,Full Buy,24.855351865399815,-1,0,-1,0,Professional
+582,3,Full Buy,28.827545815870074,-1,0,-1,1,Professional
+582,4,Full Buy,20.436914154716273,0,0,-1,1,Professional
+582,5,Full Buy,29.810244096177883,1,0,-1,1,Professional
+582,6,Force,28.222488697290977,0,0,-1,0,Professional
+582,7,Force,22.37104776949476,-1,0,-1,0,Professional
+582,8,Full Buy,35.778933021087994,0,0,-1,1,Professional
+582,9,Full Buy,21.6226008396461,1,0,-1,0,Professional
+582,10,Full Buy,32.633995924145864,-1,0,-1,1,Professional
+582,11,Full Buy,32.30855850589959,0,0,-1,0,Professional
+582,12,Full Buy,13.030151586948344,-1,1,0,1,Professional
+582,13,Full Buy,22.429446980229947,-1,1,0,0,Professional
+582,14,Full Buy,19.420764569713683,-1,0,-1,1,Professional
+582,15,Full Buy,33.64312102210634,0,0,-1,1,Professional
+582,16,Force,41.13995207911701,-1,0,-1,1,Professional
+582,17,Full Buy,21.81033844591513,-1,0,-1,0,Professional
+582,18,Force,41.082812925155295,1,1,1,1,Professional
+582,19,Full Buy,15.787328457762987,-1,1,1,0,Professional
+583,1,Eco,14.517920819928563,0,0,-1,1,Professional
+583,2,Full Buy,20.6145852870363,1,0,-1,0,Professional
+583,3,Force,30.256738009066808,-1,0,-1,1,Professional
+583,4,Eco,17.136494866009325,1,0,-1,1,Professional
+583,5,Full Buy,35.98964887244299,1,0,-1,1,Professional
+583,6,Full Buy,41.560882308678714,0,0,-1,1,Professional
+583,7,Eco,28.58568886473892,0,0,-1,1,Professional
+583,8,Force,38.66515871411061,0,0,-1,0,Professional
+583,9,Full Buy,17.256101757403265,-1,0,-1,0,Professional
+583,10,Full Buy,18.14021165257015,-1,0,-1,1,Professional
+583,11,Full Buy,10.102361949196975,0,0,-1,0,Professional
+583,12,Full Buy,36.40907066463943,0,0,-1,1,Professional
+583,13,Full Buy,42.085728442366246,-1,0,-1,1,Professional
+583,14,Eco,21.6928767862667,-1,0,-1,0,Professional
+583,15,Full Buy,27.974911497828533,-1,0,-1,0,Professional
+583,16,Full Buy,23.924982078332004,1,0,-1,1,Professional
+583,17,Full Buy,57.45010857207856,0,0,-1,0,Professional
+583,18,Eco,22.081701357666702,-1,0,-1,0,Professional
+583,19,Full Buy,29.162385798192094,-1,0,-1,1,Professional
+584,1,Full Buy,21.43749818558526,0,0,-1,0,Professional
+584,2,Full Buy,34.70721651441405,1,0,-1,1,Professional
+584,3,Full Buy,24.90695182426497,0,1,1,0,Professional
+584,4,Full Buy,23.00327697406378,1,0,-1,1,Professional
+584,5,Force,39.697974752397045,0,0,-1,1,Professional
+584,6,Eco,17.794759584321444,0,0,-1,1,Professional
+584,7,Force,29.449083968908997,-1,0,-1,0,Professional
+584,8,Full Buy,27.382122270840316,-1,0,-1,0,Professional
+584,9,Full Buy,36.068374499842044,1,0,-1,1,Professional
+584,10,Full Buy,25.65459124152579,1,1,1,1,Professional
+584,11,Full Buy,27.235145891467642,-1,0,-1,0,Professional
+584,12,Force,33.97207845772494,1,1,0,0,Professional
+584,13,Full Buy,34.608552380975446,0,0,-1,0,Professional
+584,14,Full Buy,38.80292851591153,-1,0,-1,1,Professional
+584,15,Full Buy,24.450163343816516,0,0,-1,1,Professional
+584,16,Full Buy,50.16616360712735,-1,1,1,1,Professional
+584,17,Full Buy,28.83392346763782,1,0,-1,1,Professional
+584,18,Full Buy,28.823423759357212,0,0,-1,0,Professional
+584,19,Full Buy,21.187903273874525,1,0,-1,0,Professional
+585,1,Full Buy,29.691212371789046,1,0,-1,0,Professional
+585,2,Full Buy,41.864559181870995,-1,0,-1,1,Professional
+585,3,Force,15.444057707153647,0,0,-1,0,Professional
+585,4,Full Buy,30.04563511590125,0,0,-1,1,Professional
+585,5,Full Buy,45.052722780520384,-1,1,0,0,Professional
+585,6,Force,34.22969975848708,1,0,-1,1,Professional
+585,7,Full Buy,30.910610463453445,-1,1,1,1,Professional
+585,8,Full Buy,30.669643131789567,0,1,0,1,Professional
+585,9,Full Buy,36.90894181736461,-1,0,-1,1,Professional
+585,10,Force,21.836020634274764,1,0,-1,1,Professional
+585,11,Eco,39.24478160778672,-1,0,-1,1,Professional
+585,12,Force,24.329095329966666,1,0,-1,0,Professional
+585,13,Force,37.70140423652933,0,0,-1,1,Professional
+585,14,Full Buy,18.103615630545,0,0,-1,1,Professional
+585,15,Full Buy,22.857158857634264,1,1,1,0,Professional
+585,16,Full Buy,9.272930791666571,1,0,-1,0,Professional
+585,17,Force,16.966094569173904,1,0,-1,0,Professional
+585,18,Force,24.133935964058338,0,0,-1,0,Professional
+585,19,Full Buy,38.102970342701376,-1,0,-1,0,Professional
+586,1,Full Buy,30.25681662024302,0,0,-1,0,Professional
+586,2,Force,37.54057648875614,0,0,-1,1,Professional
+586,3,Full Buy,22.592588066782266,-1,0,-1,1,Professional
+586,4,Full Buy,40.04040707423615,0,0,-1,1,Professional
+586,5,Full Buy,32.57582246274674,-1,0,-1,1,Professional
+586,6,Force,39.11810755897621,1,0,-1,1,Professional
+586,7,Force,28.018559028589856,-1,0,-1,0,Professional
+586,8,Full Buy,24.969886472288906,1,1,1,1,Professional
+586,9,Full Buy,17.20637986418211,1,1,0,1,Professional
+586,10,Eco,37.73448010292583,0,0,-1,0,Professional
+586,11,Full Buy,30.91593413362834,1,1,0,0,Professional
+586,12,Full Buy,35.52995803281817,1,0,-1,1,Professional
+586,13,Force,27.885981610778284,0,0,-1,1,Professional
+586,14,Full Buy,13.37751993163896,-1,0,-1,1,Professional
+586,15,Force,13.022955415623718,1,1,1,1,Professional
+586,16,Full Buy,26.659046551115747,1,0,-1,0,Professional
+586,17,Eco,29.589162800534346,1,0,-1,0,Professional
+586,18,Force,34.7116858700993,1,0,-1,0,Professional
+586,19,Full Buy,30.57959352414134,1,0,-1,1,Professional
+586,20,Full Buy,41.92970317434201,1,1,0,1,Professional
+586,21,Full Buy,38.85185293729609,1,0,-1,0,Professional
+586,22,Full Buy,38.23877249601628,1,0,-1,1,Professional
+586,23,Full Buy,43.59253292827535,0,0,-1,1,Professional
+587,1,Full Buy,25.048608963049404,1,1,1,1,Professional
+587,2,Full Buy,21.36825915505392,1,0,-1,1,Professional
+587,3,Full Buy,22.46088186234678,1,1,0,1,Professional
+587,4,Force,22.62924816869421,1,1,0,1,Professional
+587,5,Eco,6.151141131961509,1,0,-1,0,Professional
+587,6,Full Buy,38.84901638309307,-1,0,-1,1,Professional
+587,7,Force,9.663688497096551,-1,0,-1,1,Professional
+587,8,Full Buy,38.15234445275732,-1,0,-1,1,Professional
+587,9,Force,16.467971109276164,-1,0,-1,1,Professional
+587,10,Full Buy,33.7245457179167,0,0,-1,1,Professional
+587,11,Force,12.14188535126953,1,0,-1,0,Professional
+587,12,Full Buy,36.50194234677119,0,0,-1,0,Professional
+587,13,Full Buy,30.02911743810312,1,0,-1,1,Professional
+587,14,Force,41.249232652028276,0,0,-1,1,Professional
+587,15,Full Buy,26.455562892775273,0,0,-1,0,Professional
+587,16,Full Buy,33.894760205267765,0,0,-1,0,Professional
+587,17,Full Buy,32.36088852819988,0,1,1,1,Professional
+587,18,Full Buy,29.06852023691394,0,0,-1,1,Professional
+587,19,Full Buy,22.901474864407948,-1,0,-1,0,Professional
+587,20,Full Buy,35.78774050624573,-1,0,-1,1,Professional
+588,1,Full Buy,4.399332110127052,0,0,-1,1,Professional
+588,2,Full Buy,20.084498015762613,1,1,0,0,Professional
+588,3,Full Buy,38.24752653129961,-1,0,-1,1,Professional
+588,4,Full Buy,20.917550006661063,0,0,-1,0,Professional
+588,5,Full Buy,32.48342450528234,-1,0,-1,1,Professional
+588,6,Full Buy,14.991102346245137,0,0,-1,1,Professional
+588,7,Full Buy,4.688517572632229,-1,1,0,1,Professional
+588,8,Full Buy,35.60868276416577,0,0,-1,0,Professional
+588,9,Full Buy,17.837817374904404,0,0,-1,0,Professional
+588,10,Full Buy,26.8934350354202,-1,0,-1,1,Professional
+588,11,Full Buy,38.24852416534378,1,0,-1,1,Professional
+588,12,Full Buy,39.161632195099,0,1,0,0,Professional
+588,13,Full Buy,23.760515811161056,-1,0,-1,0,Professional
+588,14,Full Buy,28.56220070549672,-1,1,0,1,Professional
+588,15,Full Buy,30.177093922719063,1,0,-1,1,Professional
+588,16,Full Buy,23.857815746733355,0,1,0,1,Professional
+588,17,Force,31.536112685310133,-1,0,-1,1,Professional
+588,18,Force,33.11369969944085,0,1,1,1,Professional
+588,19,Full Buy,25.50800934143744,-1,1,1,0,Professional
+588,20,Force,30.282075793446126,1,1,1,1,Professional
+588,21,Full Buy,39.86782097567288,1,1,1,1,Professional
+588,22,Full Buy,31.348678974691126,-1,0,-1,0,Professional
+589,1,Full Buy,27.719461357843667,1,1,0,0,Professional
+589,2,Full Buy,36.21616012239132,-1,0,-1,0,Professional
+589,3,Full Buy,35.04627762860296,0,0,-1,0,Professional
+589,4,Eco,30.824654146677076,1,0,-1,1,Professional
+589,5,Force,36.958531054637675,1,0,-1,1,Professional
+589,6,Full Buy,21.104209041737683,1,0,-1,1,Professional
+589,7,Force,39.18191900232798,0,0,-1,1,Professional
+589,8,Eco,47.704733543799335,1,0,-1,1,Professional
+589,9,Full Buy,14.18409643023059,-1,0,-1,1,Professional
+589,10,Full Buy,17.837808104676082,0,0,-1,0,Professional
+589,11,Full Buy,19.852467383435453,0,0,-1,0,Professional
+589,12,Full Buy,22.007835417728177,-1,0,-1,0,Professional
+589,13,Full Buy,39.505332170009325,-1,0,-1,0,Professional
+589,14,Force,35.141524101331704,-1,0,-1,0,Professional
+589,15,Full Buy,30.1847481374541,1,0,-1,1,Professional
+589,16,Full Buy,48.66030647351802,-1,0,-1,1,Professional
+589,17,Force,28.650936737791998,0,0,-1,0,Professional
+589,18,Force,28.122491616331192,1,0,-1,1,Professional
+589,19,Full Buy,4.945941942581353,0,0,-1,1,Professional
+590,1,Full Buy,27.76889920161022,1,0,-1,0,Professional
+590,2,Full Buy,20.959355422082496,0,0,-1,1,Professional
+590,3,Full Buy,40.14157913331908,1,1,1,1,Professional
+590,4,Full Buy,9.556888027382925,-1,0,-1,0,Professional
+590,5,Full Buy,36.168243575011495,0,0,-1,1,Professional
+590,6,Full Buy,28.91746281326272,0,1,1,1,Professional
+590,7,Force,17.423138740135304,0,0,-1,1,Professional
+590,8,Force,7.657119715079091,-1,0,-1,0,Professional
+590,9,Full Buy,38.78751346521858,1,0,-1,1,Professional
+590,10,Full Buy,26.1686409297549,-1,0,-1,1,Professional
+590,11,Full Buy,28.59647903150075,1,0,-1,1,Professional
+590,12,Full Buy,16.00223960228333,1,0,-1,0,Professional
+590,13,Full Buy,44.1253061191906,0,0,-1,1,Professional
+590,14,Full Buy,26.341339900904895,1,0,-1,0,Professional
+590,15,Force,25.275975664069453,1,1,0,1,Professional
+590,16,Full Buy,46.058212812549584,-1,1,0,1,Professional
+590,17,Full Buy,33.08823516829521,0,0,-1,1,Professional
+590,18,Full Buy,13.158941986570095,1,0,-1,1,Professional
+590,19,Full Buy,22.459297130494036,-1,0,-1,1,Professional
+591,1,Full Buy,53.44025851053013,1,0,-1,1,Professional
+591,2,Force,37.785981481135494,0,1,0,1,Professional
+591,3,Full Buy,11.628991515254242,-1,0,-1,0,Professional
+591,4,Full Buy,22.39069415253323,1,0,-1,0,Professional
+591,5,Full Buy,28.18670078835196,1,0,-1,1,Professional
+591,6,Eco,27.764585119187743,-1,0,-1,1,Professional
+591,7,Force,15.452799781105782,1,1,1,1,Professional
+591,8,Force,15.034822107259725,-1,0,-1,0,Professional
+591,9,Full Buy,41.723779956321295,1,1,1,1,Professional
+591,10,Full Buy,32.68456383008836,-1,0,-1,1,Professional
+591,11,Full Buy,28.77780602309237,0,0,-1,1,Professional
+591,12,Full Buy,18.846870607408384,1,0,-1,1,Professional
+591,13,Full Buy,17.3059168708043,1,0,-1,1,Professional
+591,14,Full Buy,21.697695035240145,1,0,-1,0,Professional
+591,15,Full Buy,27.854664639306634,0,0,-1,0,Professional
+591,16,Full Buy,26.401916225433922,0,0,-1,0,Professional
+591,17,Full Buy,11.675826226811274,1,1,0,1,Professional
+591,18,Full Buy,42.19851909412827,1,1,1,1,Professional
+591,19,Full Buy,22.642832962037616,0,0,-1,0,Professional
+591,20,Full Buy,26.792393487501922,1,1,0,1,Professional
+591,21,Force,35.041892671574196,0,0,-1,0,Professional
+591,22,Full Buy,0.0,0,0,-1,1,Professional
+592,1,Full Buy,33.02251708795436,-1,0,-1,0,Professional
+592,2,Full Buy,46.872407983021176,-1,0,-1,1,Professional
+592,3,Force,44.39042745386449,0,0,-1,0,Professional
+592,4,Eco,30.581768695960896,0,0,-1,1,Professional
+592,5,Force,31.510714219711087,0,0,-1,0,Professional
+592,6,Full Buy,34.54008797384692,-1,0,-1,0,Professional
+592,7,Eco,19.94337298435009,0,0,-1,0,Professional
+592,8,Force,3.518671561584778,1,0,-1,1,Professional
+592,9,Full Buy,32.6668508194572,0,0,-1,1,Professional
+592,10,Full Buy,13.715878404785077,1,0,-1,1,Professional
+592,11,Eco,25.168160562865197,1,0,-1,0,Professional
+592,12,Force,26.87155690066617,0,0,-1,0,Professional
+592,13,Full Buy,27.1776220700724,1,0,-1,1,Professional
+592,14,Force,15.192837652244465,0,1,1,1,Professional
+592,15,Full Buy,18.781492836210614,1,1,1,1,Professional
+592,16,Full Buy,22.90939868714119,0,0,-1,1,Professional
+592,17,Full Buy,13.29704838263357,1,0,-1,0,Professional
+592,18,Full Buy,11.096755177522208,1,1,0,1,Professional
+592,19,Force,33.70186571352457,0,0,-1,0,Professional
+592,20,Force,29.59475970371073,1,0,-1,0,Professional
+592,21,Full Buy,15.726035151018298,-1,1,0,0,Professional
+592,22,Full Buy,26.13303864097917,1,0,-1,1,Professional
+593,1,Full Buy,13.49038042986907,0,0,-1,1,Professional
+593,2,Full Buy,29.78720712276387,-1,0,-1,0,Professional
+593,3,Full Buy,29.104358746226637,0,0,-1,1,Professional
+593,4,Full Buy,42.47403861297632,-1,0,-1,0,Professional
+593,5,Eco,16.681768522068705,1,0,-1,1,Professional
+593,6,Force,22.210621486955958,0,0,-1,0,Professional
+593,7,Full Buy,31.221146981885013,-1,1,1,1,Professional
+593,8,Full Buy,37.294980504177374,1,0,-1,1,Professional
+593,9,Full Buy,20.688909586094724,1,0,-1,1,Professional
+593,10,Full Buy,15.696570061277093,-1,0,-1,0,Professional
+593,11,Eco,25.396421760827412,0,0,-1,1,Professional
+593,12,Full Buy,32.35441447612345,-1,0,-1,1,Professional
+593,13,Full Buy,31.544745346950084,0,0,-1,1,Professional
+593,14,Full Buy,43.10834064075123,-1,1,1,1,Professional
+593,15,Full Buy,18.947682130982972,1,0,-1,1,Professional
+593,16,Full Buy,48.672320831528815,-1,1,0,0,Professional
+593,17,Full Buy,32.637913640422894,1,0,-1,1,Professional
+593,18,Full Buy,32.19364358411475,-1,0,-1,0,Professional
+593,19,Full Buy,27.909470638135968,0,0,-1,0,Professional
+593,20,Full Buy,40.841573296206434,1,0,-1,1,Professional
+593,21,Force,33.423927961905086,1,0,-1,0,Professional
+593,22,Force,17.890228805427398,-1,0,-1,0,Professional
+593,23,Full Buy,7.279859952808817,-1,0,-1,0,Professional
+594,1,Force,24.076006856526288,1,1,1,1,Professional
+594,2,Full Buy,24.370458409593745,1,0,-1,1,Professional
+594,3,Force,30.161143831885767,-1,1,1,1,Professional
+594,4,Full Buy,32.224118224711525,0,0,-1,0,Professional
+594,5,Full Buy,29.049549290475277,1,0,-1,0,Professional
+594,6,Full Buy,42.26197093459751,-1,1,0,0,Professional
+594,7,Full Buy,29.19525180763879,1,0,-1,0,Professional
+594,8,Full Buy,30.25936519742066,-1,0,-1,0,Professional
+594,9,Full Buy,22.890409240682935,0,0,-1,1,Professional
+594,10,Full Buy,18.128901965164367,1,0,-1,1,Professional
+594,11,Full Buy,45.73032277487323,1,0,-1,1,Professional
+594,12,Full Buy,32.84109777523395,0,0,-1,0,Professional
+594,13,Force,42.32670190726239,-1,1,0,1,Professional
+594,14,Full Buy,31.07072915424967,0,1,1,1,Professional
+594,15,Force,43.22328707613885,0,0,-1,0,Professional
+594,16,Force,18.922029895409,0,0,-1,0,Professional
+594,17,Full Buy,24.635695112865236,1,1,0,0,Professional
+594,18,Full Buy,12.941823260709832,1,0,-1,0,Professional
+595,1,Full Buy,34.99751005858883,-1,0,-1,0,Professional
+595,2,Full Buy,33.07198701432162,1,0,-1,1,Professional
+595,3,Force,30.31011292901452,0,0,-1,1,Professional
+595,4,Full Buy,30.025904708552947,0,1,1,1,Professional
+595,5,Force,27.341211151898975,0,0,-1,0,Professional
+595,6,Full Buy,30.696980865136545,1,0,-1,0,Professional
+595,7,Full Buy,41.27620873894944,0,0,-1,1,Professional
+595,8,Full Buy,37.974964523785935,0,0,-1,1,Professional
+595,9,Full Buy,40.45565337887458,0,0,-1,0,Professional
+595,10,Full Buy,4.0487812699880585,0,1,1,0,Professional
+595,11,Full Buy,12.126205054863213,-1,1,0,1,Professional
+595,12,Full Buy,34.37869697182803,0,0,-1,1,Professional
+595,13,Full Buy,15.749411744447375,-1,0,-1,0,Professional
+595,14,Full Buy,36.89957511644874,0,0,-1,1,Professional
+595,15,Full Buy,27.61960849633222,1,1,0,1,Professional
+595,16,Full Buy,9.766637500238001,-1,0,-1,1,Professional
+595,17,Force,30.25051911130015,-1,0,-1,1,Professional
+595,18,Full Buy,22.084028362056152,0,0,-1,0,Professional
+595,19,Full Buy,34.404305919228975,0,0,-1,0,Professional
+595,20,Full Buy,33.50060078134647,0,0,-1,1,Professional
+596,1,Full Buy,22.268271607380505,-1,0,-1,1,Professional
+596,2,Full Buy,33.14128908682639,0,0,-1,0,Professional
+596,3,Full Buy,32.76010315493845,1,0,-1,0,Professional
+596,4,Full Buy,13.098878795900553,0,1,1,1,Professional
+596,5,Full Buy,36.14708741642633,1,0,-1,0,Professional
+596,6,Full Buy,23.93582868472878,1,0,-1,0,Professional
+596,7,Full Buy,33.992686011733376,1,0,-1,1,Professional
+596,8,Full Buy,39.61335208516249,1,0,-1,1,Professional
+596,9,Full Buy,22.223262793159908,0,0,-1,1,Professional
+596,10,Full Buy,22.906216211163482,-1,0,-1,1,Professional
+596,11,Force,29.79836377935587,0,0,-1,0,Professional
+596,12,Full Buy,29.037243670016455,0,1,1,1,Professional
+596,13,Full Buy,28.93537035848688,-1,0,-1,0,Professional
+596,14,Full Buy,25.883621212279827,1,0,-1,1,Professional
+596,15,Force,18.67326704427886,1,1,1,1,Professional
+596,16,Full Buy,42.34211582858255,0,0,-1,0,Professional
+596,17,Full Buy,35.40455317696919,-1,0,-1,0,Professional
+596,18,Full Buy,32.575228594658675,1,0,-1,1,Professional
+596,19,Force,35.69746185835052,1,0,-1,1,Professional
+597,1,Full Buy,12.556389461102373,-1,0,-1,1,Professional
+597,2,Force,26.510028763185005,1,0,-1,1,Professional
+597,3,Full Buy,26.229801638833393,0,1,1,1,Professional
+597,4,Eco,30.871856123945463,0,0,-1,0,Professional
+597,5,Force,13.521017592407443,0,0,-1,0,Professional
+597,6,Full Buy,27.66635461012776,1,0,-1,0,Professional
+597,7,Full Buy,23.199095449637817,-1,0,-1,1,Professional
+597,8,Force,30.50865930584784,1,1,0,0,Professional
+597,9,Full Buy,22.24196609420803,1,0,-1,0,Professional
+597,10,Full Buy,11.59238167404466,-1,0,-1,1,Professional
+597,11,Full Buy,33.83943033636805,0,1,0,0,Professional
+597,12,Full Buy,50.21930409413724,1,0,-1,0,Professional
+597,13,Force,19.775504982392775,-1,0,-1,0,Professional
+597,14,Full Buy,25.74581148160584,0,0,-1,0,Professional
+597,15,Full Buy,26.59410727664726,0,0,-1,0,Professional
+597,16,Full Buy,38.24476666847381,1,0,-1,1,Professional
+597,17,Full Buy,26.533988086122484,0,0,-1,1,Professional
+597,18,Full Buy,28.930518604137156,1,0,-1,1,Professional
+597,19,Force,11.512769097393008,0,0,-1,0,Professional
+597,20,Full Buy,20.652537095817966,0,0,-1,0,Professional
+597,21,Force,29.20234524226215,0,0,-1,0,Professional
+597,22,Full Buy,40.14110202094574,1,0,-1,1,Professional
+598,1,Full Buy,28.382326230350053,-1,0,-1,0,Professional
+598,2,Full Buy,24.22738630049009,1,0,-1,0,Professional
+598,3,Full Buy,24.438179288732464,0,0,-1,0,Professional
+598,4,Force,28.5966012575321,-1,0,-1,0,Professional
+598,5,Eco,26.347857239483403,-1,0,-1,1,Professional
+598,6,Full Buy,43.15416347100152,1,1,1,1,Professional
+598,7,Full Buy,49.23034727176414,-1,0,-1,1,Professional
+598,8,Force,23.068219270156593,0,0,-1,1,Professional
+598,9,Full Buy,17.624354150114527,-1,0,-1,1,Professional
+598,10,Full Buy,29.81128704919812,1,0,-1,0,Professional
+598,11,Full Buy,33.29472730556165,0,0,-1,1,Professional
+598,12,Eco,30.13173532549357,-1,0,-1,1,Professional
+598,13,Full Buy,34.420904835812074,-1,1,0,0,Professional
+598,14,Full Buy,25.867610978622853,0,0,-1,1,Professional
+598,15,Full Buy,41.046160694049725,-1,0,-1,0,Professional
+598,16,Full Buy,23.987462015217922,0,0,-1,1,Professional
+598,17,Force,21.44852926359475,1,0,-1,1,Professional
+598,18,Full Buy,35.68696404628448,0,0,-1,1,Professional
+599,1,Full Buy,24.42930918408845,0,0,-1,0,Professional
+599,2,Full Buy,25.050143591390448,0,1,1,1,Professional
+599,3,Full Buy,28.741250393349546,-1,0,-1,0,Professional
+599,4,Full Buy,15.48106163498633,0,1,1,1,Professional
+599,5,Full Buy,37.378145487304224,0,0,-1,1,Professional
+599,6,Full Buy,24.03845726915682,1,0,-1,0,Professional
+599,7,Full Buy,40.01768331079862,1,0,-1,1,Professional
+599,8,Full Buy,25.157126798655938,-1,0,-1,0,Professional
+599,9,Force,30.013959434621604,1,0,-1,1,Professional
+599,10,Force,30.314786242128534,1,1,0,1,Professional
+599,11,Full Buy,35.01596323976583,1,0,-1,1,Professional
+599,12,Force,34.779348084383926,-1,0,-1,0,Professional
+599,13,Full Buy,36.572440803920856,0,0,-1,1,Professional
+599,14,Full Buy,24.37339763959759,1,0,-1,1,Professional
+599,15,Force,32.07430317435,-1,1,1,1,Professional
+599,16,Force,32.31471167882636,0,0,-1,1,Professional
+599,17,Full Buy,29.65428491264026,-1,0,-1,1,Professional
+599,18,Eco,30.730855671105147,-1,0,-1,1,Professional
+599,19,Full Buy,34.41341636681342,-1,0,-1,1,Professional
+600,1,Force,45.612924454951795,-1,1,1,1,Professional
+600,2,Full Buy,34.16200344255413,1,0,-1,0,Professional
+600,3,Full Buy,23.38410110703152,-1,1,1,1,Professional
+600,4,Force,39.76300978176151,-1,0,-1,0,Professional
+600,5,Full Buy,33.779272418348285,1,0,-1,1,Professional
+600,6,Full Buy,24.263042291249313,1,0,-1,0,Professional
+600,7,Full Buy,35.8095406944645,0,0,-1,1,Professional
+600,8,Full Buy,31.234235195876,-1,0,-1,0,Professional
+600,9,Eco,31.866921534059028,0,0,-1,1,Professional
+600,10,Full Buy,28.31103270693198,-1,1,1,1,Professional
+600,11,Full Buy,33.39791418955554,0,1,1,1,Professional
+600,12,Force,29.85576743067099,-1,0,-1,1,Professional
+600,13,Full Buy,10.951620751032038,1,0,-1,1,Professional
+600,14,Force,22.41376777923051,-1,0,-1,0,Professional
+600,15,Full Buy,30.9710622216905,-1,0,-1,1,Professional
+600,16,Full Buy,29.841031700507568,1,0,-1,1,Professional
+600,17,Full Buy,41.2871531962655,1,0,-1,1,Professional
+600,18,Full Buy,0.0,0,1,1,1,Professional
+600,19,Eco,20.20821375749694,0,0,-1,0,Professional
