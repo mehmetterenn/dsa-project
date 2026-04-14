@@ -18,27 +18,31 @@ This project specifically tests the following four hypotheses using formal stati
 3. **Entry Duel Success (T-Test)**: *H0: First kill (entry frag) success rates are identical between personal gameplay and professional matches.*
 4. **Economy Management (Eco Round Win Rate)**: *H0: Both player tiers have identical round-win probabilities when playing on an "Eco" (low economy) state.*
 
+## Data Sources
+- **Personal Data:** Personal CS2 match and player statistics were extracted directly using the **Steam Web API**.
+- **Professional Data:** The professional CS2 player data, which constitutes the benchmark standards, was incorporated into the project by blending pro-level esports match simulations and statistics.
+
 ## How to Reproduce the Analysis
 
 1. **Install Dependencies:**
-   First, ensure you have Python 3 installed. Then install the required libraries:
+   First, ensure you have Python 3 installed on your system. Then, install the required libraries by running the following command in your terminal:
    ```bash
    pip install -r requirements.txt
    ```
 
 2. **Step 1: Data Collection:**
-   Run the data collection script to pull the data via the Steam Web engine and generate the exact datasets.
+   Run the data collection script to pull data from Steam and generate the necessary datasets:
    ```bash
    python data_collection.py
    ```
-   *Note: This will output `personal_cs2_data.csv` and `professional_cs2_data.csv` to your current directory.*
+   *Note: This operation will save the `personal_cs2_data.csv` and `professional_cs2_data.csv` files to your working directory, which are required to run the analysis.*
 
 3. **Step 2: EDA & Hypothesis Testing:**
-   Run the analysis script to output the statistics and generate new P-values.
+   To start the analysis and produce new statistics/p-values, use the following command:
    ```bash
    python eda_hypothesis.py
    ```
-   *Check your console for the direct hypothesis test outputs and the directory for the generated `.png` graphs.*
+   *You can find the test results directly in your terminal (console) output, and the generated Exploratory Data Analysis (EDA) graphs as `.png` files in your current directory.*
 
 ## EDA Source Code & Output Graphs
 
