@@ -57,7 +57,7 @@ def fetch_personal_data_from_api(num_matches=55):
                     'Entry_Attempt': entry_attempt,
                     'Entry_Success': entry_success,
                     'Round_Won': round_won,
-                    'Player_Level': 'Amateur'
+                    'Player_Level': 'Personal'
                 })
         df = pd.DataFrame(rounds)
         df.to_csv('personal_cs2_data.csv', index=False)

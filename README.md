@@ -11,6 +11,13 @@ This project aims to analyze the performance gap between my personal Counter-Str
 - `requirements.txt`: Python package dependencies.
 - `*.png`: EDA Visualizations output.
 
+## Project Hypotheses
+This project specifically tests the following four hypotheses using formal statistical methods (`scipy.stats`):
+1. **Headshot Precision (T-Test)**: *H0: Personal and Professional players have the same headshot percentage.* (Tested to see if pro level mechanical aim significantly differs from personal dataset).
+2. **Utility Efficiency vs. Win Rate (Point-Biserial Correlation)**: *H0: There is no correlation between the amount of utility damage dealt in a round and the probability of winning that round.*
+3. **Entry Duel Success (T-Test)**: *H0: First kill (entry frag) success rates are identical between personal gameplay and professional matches.*
+4. **Economy Management (Eco Round Win Rate)**: *H0: Both player tiers have identical round-win probabilities when playing on an "Eco" (low economy) state.*
+
 ## How to Reproduce the Analysis
 
 1. **Install Dependencies:**
@@ -32,3 +39,42 @@ This project aims to analyze the performance gap between my personal Counter-Str
    python eda_hypothesis.py
    ```
    *Check your console for the direct hypothesis test outputs and the directory for the generated `.png` graphs.*
+
+## EDA Source Code & Output Graphs
+
+Below is the embedded Python code specifically used to generate our Exploratory Data Analysis (EDA) visualizations, alongside their respective output graphs.
+
+### 1. Utility Damage Comparison
+```python
+plt.figure(figsize=(8, 6))
+sns.boxplot(x='Player_Level', y='Utility_Damage', data=df, palette='Set2')
+plt.title('Utility Damage per Round: Personal vs Professional')
+plt.ylabel('Utility Damage')
+plt.xlabel('Player Level')
+plt.savefig('eda_utility_damage.png')
+```
+<img src="eda_utility_damage.png" alt="Utility Damage Boxplot" width="600"/>
+
+### 2. Economy State Breakdown
+```python
+plt.figure(figsize=(8, 6))
+sns.countplot(x='Economy_State', hue='Player_Level', data=df, palette='Set1', order=['Eco', 'Force', 'Full Buy'])
+plt.title('Economy State Distribution')
+plt.ylabel('Frequency (Rounds)')
+plt.xlabel('Buy Type')
+plt.savefig('eda_economy_distribution.png')
+```
+<img src="eda_economy_distribution.png" alt="Economy State Distribution" width="600"/>
+
+### 3. Round Win Rate by Economy
+```python
+win_rates = df.groupby(['Player_Level', 'Economy_State'])['Round_Won'].mean().reset_index()
+plt.figure(figsize=(8, 6))
+sns.barplot(x='Economy_State', y='Round_Won', hue='Player_Level', data=win_rates, palette='viridis', order=['Eco', 'Force', 'Full Buy'])
+plt.title('Round Win Rate by Economy State')
+plt.ylabel('Win Rate')
+plt.xlabel('Buy Type')
+plt.ylim(0, 1)
+plt.savefig('eda_win_rate_economy.png')
+```
+<img src="eda_win_rate_economy.png" alt="Win Rate by Economy" width="600"/>
