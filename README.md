@@ -4,8 +4,9 @@
 This project aims to analyze the performance gap between my personal Counter-Strike 2 gameplay and professional benchmarks. Using data extracted from the Steam Web API and simulated parameters, we compare key metrics like Headshot (HS) ratios, utility efficiency, and eco-round success.
 
 ## Repository Contents
+- `dsa210_project.ipynb`: Comprehensive Jupyter Notebook containing Exploratory Data Analysis (EDA), Hypothesis Testing, and the Machine Learning prediction models.
 - `data_collection.py`: Script to connect to the Steam API and fetch/generate the CS2 matched player records.
-- `eda_hypothesis.py`: Conducts Exploratory Data Analysis (EDA) and calculates 4 key hypothesis tests using the extracted CSV files.
+- `eda_hypothesis.py`: Legacy script for conducting EDA and Hypothesis Testing.
 - `personal_cs2_data.csv`: The extracted dataset containing personal matches and rounds.
 - `professional_cs2_data.csv`: The extracted enrichment dataset for professional standards.
 - `requirements.txt`: Python package dependencies.
@@ -37,12 +38,12 @@ This project specifically tests the following four hypotheses using formal stati
    ```
    *Note: This operation will save the `personal_cs2_data.csv` and `professional_cs2_data.csv` files to your working directory, which are required to run the analysis.*
 
-3. **Step 2: EDA & Hypothesis Testing:**
-   To start the analysis and produce new statistics/p-values, use the following command:
+3. **Step 2: EDA, Hypothesis Testing & Machine Learning:**
+   To view the final analysis, including EDA visualizations, statistical hypothesis tests, and the newly added Machine Learning pipeline (Logistic Regression, Random Forest, and XGBoost), open the Jupyter Notebook:
    ```bash
-   python eda_hypothesis.py
+   jupyter notebook dsa210_project.ipynb
    ```
-   *You can find the test results directly in your terminal (console) output, and the generated Exploratory Data Analysis (EDA) graphs as `.png` files in your current directory.*
+   *The notebook contains all the executed cells, visualizations, and model evaluations making it easy to review and skim through.*
 
 ## EDA Source Code & Output Graphs
 

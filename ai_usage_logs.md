@@ -7,6 +7,7 @@ During the development of this project, Artificial Intelligence tools (such as C
 1. **Visualization Enhancements (EDA):** Suggestions and debugging assistance were taken from AI on aesthetic aspects such as adjusting color palettes (`palette='Set2'`, `viridis`, etc.) and making axis labels more readable in the plots drawn with Matplotlib and Seaborn libraries.
 2. **Debugging:** Minor code snippets were asked to the AI to understand the logic of the `scipy.stats` p-value generation and to resolve some data type errors encountered in `eda_hypothesis.py` (such as `TypeError` when converting pandas DataFrame columns).
 3. **Documentation:** Some documentation structures, for which I prepared a rough draft at the beginning of the project, were formatted and reviewed with the AI assistant to make them look more organized.
+4. **Machine Learning Pipeline & Jupyter Notebook:** AI (specifically Antigravity / Gemini) was heavily utilized to migrate the existing codebase into a comprehensive Jupyter Notebook (`dsa210_project.ipynb`) as per the TA's request. Additionally, AI was used to build, train, and evaluate the classification models (Logistic Regression, Random Forest, XGBoost) and plot their respective ROC curves and Feature Importances.
 
 ## Which Stages Are Completely Original?
 
