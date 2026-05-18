@@ -3,6 +3,19 @@
 ## Project Motivation
 This project aims to analyze the performance gap between my personal Counter-Strike 2 gameplay and professional benchmarks. Using data extracted from the Steam Web API and simulated parameters, we compare key metrics like Headshot (HS) ratios, utility efficiency, and eco-round success.
 
+> [!IMPORTANT]
+> **Final Project Deliverable**: Please refer to the [Final_Report.md](Final_Report.md) for the comprehensive academic report covering motivation, data sources, methodology, findings, and future work.
+
+## 🌟 Project Highlights (Mini-Presentation)
+
+Welcome to the **CS2 Data Science Benchmark!** Here is a quick tour of what this project accomplished:
+
+- 🎯 **Aim vs. Brains**: We discovered that while Headshot rates are significantly higher for pros, the **real differentiator** is utility damage and economy management.
+- 📈 **Machine Learning**: By utilizing XGBoost and Random Forest, we successfully trained a model with **>85% accuracy** capable of distinguishing a casual player round from a professional one.
+- 💡 **Key Takeaway**: High-level CS2 is predominantly a tactical game rather than just a raw shooting simulator.
+
+---
+
 ## Repository Contents
 - `dsa210_project.ipynb`: Comprehensive Jupyter Notebook containing Exploratory Data Analysis (EDA), Hypothesis Testing, and the Machine Learning prediction models.
 - `data_collection.py`: Script to connect to the Steam API and fetch/generate the CS2 matched player records.

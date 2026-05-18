@@ -5,7 +5,25 @@ import seaborn as sns
 from scipy import stats
 import os
 
+"""
+Module: Exploratory Data Analysis & Hypothesis Testing (EDA)
+------------------------------------------------------------
+This module loads the previously extracted CS2 match datasets and performs
+both exploratory visualizations and formal statistical hypothesis testing.
+It serves as the core statistical engine to compare Personal vs. Professional
+gameplay benchmarks.
+"""
+
 def run_pipeline():
+    """
+    Executes the entire data analysis pipeline including EDA and Hypothesis Testing.
+    
+    Workflow:
+    1. Loads the generated CSV datasets.
+    2. Performs data preprocessing (e.g., filtering rounds with kills).
+    3. Generates and saves EDA visualizations (Utility Damage, Economy, Win Rates).
+    4. Computes T-Tests and Point-Biserial Correlations for four distinct hypotheses.
+    """
     # Load data
     try:
         personal_df = pd.read_csv('personal_cs2_data.csv')

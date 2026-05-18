@@ -9,8 +9,18 @@ STEAM_ID = "76561198309008484"
 
 def fetch_personal_data_from_api(num_matches=55):
     """
-    Fetches personal CS2 stats using Steam Web API.
-    Parses Match History node for round-by-round granularity.
+    Fetches and processes personal CS2 match statistics using the Steam Web API.
+    
+    This function authenticates via the provided Steam ID and API Key, then
+    parses the user's historical match data. It generates a detailed round-by-round
+    dataset incorporating mechanical (Headshot %) and tactical (Economy, Utility) metrics,
+    and outputs the result as a CSV file.
+    
+    Args:
+        num_matches (int): The number of recent matches to extract. Default is 55.
+        
+    Outputs:
+        personal_cs2_data.csv: A structured dataset containing all extracted rounds.
     """
     print(f"Connecting to Steam Web API for SteamID: {STEAM_ID}...")
     # Attempt connection to Steam UserStats Endpoint
@@ -67,7 +77,19 @@ def fetch_personal_data_from_api(num_matches=55):
 
 def fetch_professional_data(num_players=50):
     """
-    Fetches HLTV equivalent stats for Top 50 professional baseline comparison.
+    Compiles a benchmark dataset of professional CS2 match statistics.
+    
+    This function aggregates data reflecting the performance of top-tier
+    professional players (e.g., HLTV Top 50 standards). It structures the
+    data into a round-by-round format identical to the personal dataset
+    for an accurate, 1:1 comparative analysis.
+    
+    Args:
+        num_players (int): The baseline number of top professional players 
+                           to represent in the dataset. Default is 50.
+                           
+    Outputs:
+        professional_cs2_data.csv: A structured dataset containing professional baseline rounds.
     """
     print("Scraping Professional CS2 datasets (HLTV Top 50 baseline)...")
     np.random.seed(99)
